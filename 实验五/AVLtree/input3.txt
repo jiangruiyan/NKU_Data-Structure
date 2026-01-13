@@ -1,0 +1,5003 @@
+5000
+Insert 29011
+Subtree 29011
+Delete 29011
+Insert -91516
+Subtree -91516
+Sum -46885 -37200
+Insert 66744
+Delete -91516
+Sum -34898 20236
+Delete 66744
+Insert -73421
+Insert -48626
+Insert 59773
+Delete -73421
+Sum -29063 43815
+Delete -48626
+Insert 27256
+Delete 27256
+Insert 32254
+Subtree 32254
+Sum -23807 4018
+Delete 32254
+Insert 22801
+Insert 69569
+Sum -77434 23736
+Insert -63873
+Insert -34796
+Insert 2596
+Insert -83201
+Sum 37439 76805
+Delete 69569
+Sum 12297 93193
+Insert 78738
+Subtree -34796
+Sum 60262 60295
+Insert 58646
+Delete 59773
+Delete -83201
+Sum -81376 97410
+Delete -34796
+Delete 58646
+Insert 62316
+Insert -58046
+Insert 70736
+Subtree 62316
+Sum -24230 67107
+Sum -89772 49309
+Insert 71296
+Subtree -58046
+Insert 7145
+Sum -8839 2214
+Sum -90068 -88281
+Insert 70667
+Insert 21183
+Delete 70667
+Insert 99115
+Insert 57718
+Subtree 57718
+Insert 37603
+Insert 63256
+Delete 2596
+Insert 79693
+Insert 89520
+Insert 83145
+Insert -15626
+Insert -28059
+Insert -2436
+Sum -15008 24721
+Delete 62316
+Insert -88970
+Sum 74371 87773
+Delete 57718
+Sum -50975 29637
+Delete 99115
+Subtree -2436
+Insert 60039
+Sum -7992 81753
+Insert -92918
+Delete 78738
+Insert -19630
+Sum -11771 19915
+Delete -58046
+Insert -60090
+Subtree 83145
+Delete 70736
+Sum 76392 97915
+Delete 63256
+Insert -63431
+Insert 34401
+Sum 22556 49551
+Insert -83134
+Insert -64692
+Insert -28511
+Sum -78177 47835
+Insert 37711
+Delete -28511
+Sum 13256 27092
+Insert -97483
+Sum -96665 21685
+Insert 4912
+Insert 95254
+Insert -39033
+Insert -54672
+Insert 11953
+Sum -22600 61576
+Insert -54535
+Insert -97314
+Subtree 34401
+Subtree 83145
+Insert 84087
+Insert -13841
+Insert 77726
+Sum 28572 35693
+Subtree -63873
+Subtree 21183
+Sum -1260 16790
+Insert 61046
+Delete 83145
+Delete -63431
+Sum 38839 92642
+Insert 82027
+Subtree 37711
+Insert 86233
+Sum 71489 85552
+Delete -97483
+Sum -60563 40722
+Insert 4471
+Insert -43737
+Subtree -13841
+Delete -54535
+Subtree -15626
+Subtree -97314
+Insert -45768
+Subtree 71296
+Insert 87116
+Sum 51724 53665
+Delete 4912
+Insert -33096
+Insert -670
+Insert 81303
+Delete 21183
+Insert 74602
+Sum -80183 28607
+Sum 96607 99090
+Insert -40172
+Subtree 61046
+Delete -60090
+Insert 65694
+Insert -30628
+Insert 96201
+Delete 60039
+Insert 33117
+Sum 16378 28978
+Insert -18625
+Insert 61474
+Insert 22154
+Insert 5765
+Subtree -19630
+Subtree 82027
+Subtree 61474
+Insert -13278
+Insert 60158
+Insert -42333
+Delete -54672
+Insert -43961
+Delete 60158
+Insert 87761
+Delete 65694
+Delete -670
+Insert -32954
+Insert -17377
+Insert 95980
+Insert 9742
+Delete 37711
+Insert 71967
+Insert 40063
+Sum -89767 9571
+Insert 98880
+Delete 5765
+Delete 71967
+Insert -25216
+Insert -22038
+Insert 62976
+Subtree 95980
+Insert -51180
+Insert 580
+Insert -57948
+Insert -33377
+Delete -43961
+Insert -58428
+Sum -35613 38245
+Subtree 22801
+Delete -92918
+Subtree 98880
+Insert 90576
+Subtree -42333
+Insert 82062
+Insert 15026
+Subtree -63873
+Insert 66239
+Insert 69046
+Insert 58385
+Insert -99069
+Subtree 9742
+Insert -26159
+Insert 89912
+Subtree -33377
+Delete 96201
+Sum 30519 51454
+Insert -37230
+Delete 7145
+Insert 50692
+Insert 79121
+Sum -77630 98533
+Subtree 61474
+Insert -79456
+Insert -67985
+Delete -43737
+Subtree 62976
+Insert 95642
+Sum 93648 95451
+Insert 48683
+Subtree -58428
+Insert -92669
+Insert -59587
+Insert 60561
+Delete 58385
+Delete -28059
+Insert 13455
+Insert -94995
+Insert 67763
+Insert 37135
+Insert -81803
+Subtree 22154
+Subtree 89520
+Delete -67985
+Insert 53608
+Insert 24953
+Insert -41094
+Insert 55568
+Delete -88970
+Insert 64100
+Insert -94017
+Insert -57355
+Insert -54478
+Subtree 86233
+Insert 34143
+Insert -14477
+Insert -49617
+Insert -12253
+Sum -15203 84521
+Insert -36350
+Subtree -40172
+Subtree -92669
+Insert -29271
+Insert -42310
+Sum -82585 77369
+Delete 86233
+Sum -42487 56477
+Subtree 79693
+Delete 74602
+Insert -31810
+Insert 12098
+Insert 56563
+Delete 69046
+Sum 87091 97624
+Insert 25016
+Insert -20590
+Delete 12098
+Sum 72079 76514
+Delete -20590
+Insert -7119
+Delete -26159
+Sum -79862 29485
+Insert 59447
+Insert -816
+Insert -87444
+Insert -45394
+Insert 81722
+Sum -49807 44687
+Delete -2436
+Insert -96854
+Insert -24311
+Insert 93989
+Subtree 9742
+Insert 68971
+Subtree -41094
+Insert 97420
+Delete -12253
+Insert -22138
+Insert -31739
+Delete -81803
+Insert 83433
+Insert -59727
+Insert -78844
+Delete -96854
+Insert -40238
+Delete 33117
+Sum -21971 4088
+Insert 86014
+Subtree -31810
+Delete -18625
+Insert -5197
+Insert -76088
+Sum 74648 91327
+Sum -97799 -31773
+Insert -57006
+Sum -28052 79101
+Insert 86753
+Subtree 55568
+Insert 63315
+Insert 85233
+Sum -76643 87
+Subtree 79693
+Sum -98654 53261
+Subtree -57948
+Subtree 86014
+Insert -17160
+Insert -99694
+Insert 74752
+Insert -82973
+Insert 92966
+Delete 15026
+Delete 87116
+Subtree -30628
+Insert 29380
+Subtree 29380
+Sum 56441 91851
+Subtree 50692
+Insert 71263
+Delete 97420
+Insert 27352
+Insert -75756
+Subtree 61046
+Insert 62135
+Sum 73106 94126
+Insert 54080
+Delete -33377
+Sum 83111 95685
+Insert 30222
+Sum 97272 98184
+Sum 34751 53144
+Delete -17160
+Subtree -40238
+Sum 41855 63395
+Delete 37603
+Sum -63658 23240
+Insert -69
+Insert 55816
+Subtree 68971
+Insert -51506
+Insert 74421
+Insert -49575
+Insert 789
+Subtree 62976
+Sum -21526 72746
+Insert -77687
+Sum 52549 95793
+Delete -57006
+Insert -32179
+Insert 77129
+Insert 22115
+Insert 18157
+Delete 580
+Insert 75231
+Subtree 61474
+Delete 90576
+Insert -56588
+Delete -76088
+Sum -97927 -43334
+Insert 17958
+Insert -87846
+Subtree 17958
+Delete -49617
+Insert -85853
+Insert -52570
+Delete -57948
+Subtree -82973
+Insert -54688
+Delete 54080
+Sum -96567 21231
+Insert -65874
+Delete -79456
+Insert -13162
+Insert 25793
+Delete -59587
+Insert 37655
+Insert 49089
+Insert -9545
+Delete 61474
+Insert -56972
+Insert 1812
+Insert -51995
+Delete 59447
+Sum -95417 14059
+Insert -11565
+Sum 9018 76441
+Insert 42046
+Insert 86827
+Sum -20487 -19988
+Insert -95221
+Delete -51180
+Subtree 95642
+Insert 87611
+Subtree 82062
+Delete -51995
+Sum -46397 15688
+Delete -41094
+Delete -39033
+Insert 11345
+Insert 35034
+Insert -25660
+Insert -23056
+Insert -75472
+Delete -83134
+Insert -14292
+Insert 14400
+Subtree 77726
+Subtree 74752
+Insert 93024
+Insert 77396
+Sum -77287 77158
+Sum 24065 58543
+Delete 34143
+Insert 12803
+Delete 83433
+Insert 95657
+Insert 27473
+Sum -56300 11368
+Insert 80236
+Sum 38946 56974
+Insert -63418
+Insert 11248
+Insert -72626
+Insert 52048
+Subtree -816
+Insert -67707
+Delete -99069
+Insert -16382
+Sum -87265 -53776
+Subtree 13455
+Insert -83
+Insert 85465
+Insert -32274
+Delete -31810
+Delete 12803
+Delete 18157
+Delete 42046
+Insert -28172
+Subtree -14292
+Insert -67727
+Insert -65724
+Insert -11984
+Delete 77726
+Insert -51335
+Insert -19967
+Insert 12412
+Insert 27571
+Sum -26422 63504
+Insert -41525
+Insert 2601
+Insert 68726
+Subtree -87846
+Sum -7510 38143
+Sum 54202 73838
+Delete 81722
+Insert -44184
+Subtree -7119
+Delete -65874
+Delete -95221
+Delete -32954
+Insert -1327
+Insert -62198
+Sum 55731 80326
+Sum 8934 43331
+Insert 15254
+Insert -23279
+Subtree 34401
+Sum -47708 37559
+Delete -57355
+Sum -19594 -3944
+Insert -35403
+Delete 82027
+Insert -67750
+Sum -67662 42677
+Insert 38887
+Sum 31759 32163
+Sum -52508 95207
+Insert -95405
+Insert 49095
+Sum 50757 75485
+Insert 51310
+Insert -60676
+Insert -78600
+Insert -37436
+Insert 13032
+Delete -99694
+Insert -92098
+Subtree -14292
+Insert -46135
+Sum -38167 91140
+Insert -33234
+Insert 29958
+Delete 89912
+Insert 86001
+Insert -65349
+Insert -15481
+Delete 68971
+Subtree 49089
+Subtree -58428
+Insert -68346
+Delete 13032
+Insert -60785
+Insert -869
+Insert -55553
+Delete -33096
+Sum 90021 99384
+Insert -34060
+Sum -1658 7161
+Sum 53599 94817
+Insert -19090
+Delete -11565
+Insert 56297
+Insert -22963
+Insert -49741
+Sum -70318 -1172
+Subtree 66239
+Subtree 95642
+Insert 96813
+Insert 39870
+Delete -51506
+Subtree 79693
+Insert 75038
+Insert 90259
+Sum 6069 7055
+Delete 95642
+Insert 14880
+Insert 96258
+Insert -10560
+Insert 83881
+Insert -90338
+Insert 89752
+Sum 18852 30546
+Insert -65092
+Delete 80236
+Insert -86863
+Sum -62953 88342
+Insert 20402
+Sum -65040 37440
+Insert 76504
+Insert 58384
+Insert 51320
+Insert 18587
+Delete -69
+Insert -68379
+Insert 67854
+Insert 29110
+Insert -7564
+Insert -63157
+Insert -87372
+Sum 97809 98620
+Insert -26187
+Insert 40880
+Insert 37473
+Sum 73405 93972
+Delete -49575
+Delete 76504
+Delete -87444
+Insert -21661
+Sum -22214 74115
+Insert 52117
+Insert 92428
+Insert -4207
+Sum 81050 90749
+Sum 61765 65263
+Insert -31076
+Sum -93092 -47088
+Insert 84924
+Sum 45134 75661
+Delete -37230
+Insert 50384
+Insert 54519
+Subtree 95254
+Delete -21661
+Insert 2900
+Insert 61835
+Delete 29380
+Insert 90161
+Delete -67727
+Sum -79076 4453
+Delete 18587
+Insert 63237
+Subtree 60561
+Insert -43135
+Insert -16443
+Sum 27691 97517
+Insert 60933
+Subtree 55816
+Subtree 62135
+Delete -40172
+Delete 86827
+Insert 42794
+Insert 83032
+Sum 42106 55345
+Delete -23279
+Insert -13392
+Sum -50391 -33831
+Sum 3905 81621
+Subtree -13162
+Sum 29281 88193
+Insert 82128
+Delete -68346
+Insert -30908
+Subtree -4207
+Insert -11242
+Delete 85233
+Insert -62268
+Insert -25204
+Insert 63188
+Insert -3242
+Subtree -86863
+Insert -73526
+Sum -72553 -46105
+Insert -68605
+Insert 6126
+Delete 27473
+Insert 23929
+Sum -26458 12173
+Subtree 2900
+Delete 86753
+Sum 98555 99807
+Insert -74897
+Sum 86301 87306
+Sum 29266 93851
+Insert 97862
+Delete -9545
+Insert -47316
+Insert 36588
+Sum 92151 97819
+Sum -22096 10467
+Subtree -14292
+Delete 13455
+Delete -64692
+Insert 25267
+Subtree -55553
+Delete 55568
+Insert -52195
+Insert -4910
+Insert -8147
+Insert 31030
+Delete 98880
+Insert -1684
+Sum -35576 95094
+Insert 45387
+Insert -33935
+Insert -98301
+Sum 5296 32942
+Insert 831
+Delete 74752
+Insert -26713
+Insert 54043
+Insert 45853
+Insert -64572
+Sum 1530 7449
+Delete 831
+Insert 95630
+Delete 60933
+Subtree 90259
+Sum 64303 87150
+Insert -79351
+Delete 63188
+Insert -24570
+Sum 34879 40094
+Sum 96211 98692
+Insert 63381
+Insert 49537
+Insert 20556
+Insert -67721
+Sum 88270 92428
+Sum 31680 33021
+Delete -4207
+Insert 69272
+Insert -75677
+Insert -86778
+Insert 10494
+Sum -23373 95751
+Sum -38380 41811
+Insert -33827
+Insert 70168
+Subtree -49741
+Subtree 89520
+Insert 38940
+Subtree 12412
+Delete 74421
+Sum 73069 92189
+Subtree -63157
+Subtree -54478
+Delete -22963
+Insert 89217
+Insert 94148
+Subtree -33935
+Insert -4900
+Subtree 49095
+Insert -64322
+Subtree 29958
+Insert -73834
+Insert 61990
+Sum 10881 22687
+Insert 44760
+Sum -22573 62927
+Subtree -49741
+Insert 52120
+Sum 37368 86117
+Subtree -54478
+Subtree 49537
+Insert -58443
+Delete -92669
+Delete 25793
+Sum 65032 69054
+Delete 84087
+Sum -7685 53163
+Sum 71824 75550
+Delete -52570
+Insert 75953
+Insert -81291
+Insert 64193
+Insert -4697
+Sum -45193 49561
+Subtree 53608
+Insert -86753
+Insert 55123
+Delete 84924
+Insert -21389
+Insert -46120
+Insert 89824
+Insert 10615
+Insert -73064
+Delete -35403
+Subtree -67721
+Insert 2611
+Insert -92433
+Insert -46557
+Delete -29271
+Insert -62009
+Delete 90259
+Delete -54688
+Delete -26187
+Insert -81013
+Insert -77668
+Delete -90338
+Insert -20511
+Insert 71582
+Insert 72988
+Insert -39898
+Sum 70160 97237
+Sum 88931 90071
+Sum 59810 92556
+Insert -84459
+Delete -3242
+Subtree -40238
+Sum -77190 89151
+Insert 35533
+Insert -19980
+Delete -81013
+Insert -35692
+Sum 11431 69398
+Insert -23543
+Insert -63763
+Insert -27964
+Insert 88174
+Sum -21352 35538
+Insert -83604
+Delete 89752
+Insert -87503
+Insert -42764
+Insert 64019
+Insert -26471
+Insert -89682
+Insert 7101
+Insert 19127
+Sum 54361 61887
+Delete -63873
+Insert -72385
+Insert 51329
+Insert 41443
+Insert 90820
+Insert -85166
+Delete 95980
+Subtree 79121
+Insert 75823
+Sum 99606 99723
+Delete 44760
+Insert 8554
+Sum -60949 -18133
+Subtree 83881
+Delete 1812
+Delete -27964
+Insert -3074
+Insert 7272
+Delete -67707
+Insert 91520
+Sum 83581 95850
+Subtree 86001
+Delete 62976
+Subtree -13841
+Delete -33935
+Sum -78222 -69558
+Delete 55123
+Sum -8591 3642
+Delete -13841
+Insert 81652
+Insert -48183
+Subtree 61990
+Insert -81158
+Sum -20250 -11951
+Insert 64574
+Subtree -60785
+Insert -62436
+Insert 79981
+Delete 87611
+Insert 79048
+Delete 52117
+Insert 53544
+Insert 83899
+Insert 36720
+Subtree -73834
+Delete -73834
+Sum -86337 -50573
+Delete 2900
+Insert -92684
+Subtree -25660
+Delete 31030
+Delete -62198
+Insert 81723
+Insert 42708
+Insert -89657
+Insert -8263
+Sum -74619 -30415
+Insert -35537
+Insert -484
+Insert 15133
+Sum -26813 82842
+Insert -34505
+Sum 77796 82159
+Insert 82791
+Delete -81158
+Insert -89676
+Insert 79582
+Sum 17483 65465
+Delete 48683
+Insert -41784
+Subtree -65092
+Sum 85452 85936
+Insert 69566
+Insert 36433
+Delete -65092
+Sum -3532 18746
+Insert -30064
+Insert 26125
+Insert -77603
+Insert 46230
+Delete 61046
+Sum -20108 24670
+Insert -83372
+Insert 46457
+Insert 54349
+Insert -39184
+Insert -73496
+Sum 51815 70589
+Insert -48616
+Insert 8396
+Delete 37135
+Sum 95950 98783
+Delete -58428
+Sum -16140 34980
+Subtree -1684
+Sum 67955 88452
+Sum 23793 74470
+Subtree -48616
+Delete -85166
+Delete -77603
+Delete 23929
+Insert -41538
+Insert 68361
+Insert -78935
+Delete 68726
+Subtree -74897
+Delete -85853
+Insert -4830
+Insert 60326
+Sum -98169 52189
+Subtree 30222
+Sum 86266 96018
+Delete -15626
+Delete -11242
+Sum 80150 86373
+Sum 27029 95313
+Insert -21071
+Subtree 97862
+Insert 9565
+Sum 66951 71738
+Subtree 2601
+Insert 8997
+Insert -22966
+Delete -25660
+Subtree -81291
+Subtree -33827
+Sum -49440 -43984
+Delete -74897
+Delete 25016
+Insert -11801
+Insert -81730
+Subtree 22801
+Insert -2391
+Insert 20941
+Insert -2200
+Insert 31549
+Insert 73298
+Delete -23056
+Sum -45383 96569
+Insert 72732
+Delete -45768
+Sum -34302 88332
+Insert -65610
+Insert -1038
+Insert 66181
+Sum 46826 51686
+Insert 53862
+Insert -6642
+Insert 46803
+Insert -37357
+Subtree 7272
+Insert -84884
+Sum -75092 -61849
+Delete 69272
+Delete 46457
+Delete 26125
+Insert 82478
+Insert 3968
+Insert -58687
+Insert -39562
+Sum -75429 -333
+Insert 17589
+Sum -46321 -20434
+Insert 53945
+Insert 7979
+Insert 27869
+Delete -87846
+Subtree 71263
+Delete 97862
+Subtree -31076
+Delete 8554
+Delete 56563
+Sum -96673 -36118
+Insert -179
+Subtree 7979
+Subtree -34060
+Subtree -60676
+Insert -11124
+Sum -46945 84616
+Insert 91135
+Subtree -19967
+Insert -72030
+Insert 18333
+Delete 79048
+Sum -74633 -66989
+Insert -83720
+Subtree -37357
+Sum -67166 79411
+Insert 31899
+Sum -28086 46621
+Insert -3415
+Insert 35386
+Insert 17912
+Insert 72169
+Insert 88118
+Delete -17377
+Subtree -83372
+Insert -25210
+Insert 43395
+Insert -9147
+Sum -84121 24440
+Insert 93927
+Sum 7229 31470
+Insert -25023
+Insert -52054
+Insert 64871
+Sum 76211 88456
+Delete -20511
+Insert 95453
+Sum 78907 96710
+Sum 35081 78603
+Insert -57044
+Delete -4900
+Insert -27
+Sum 44256 61727
+Delete 79693
+Subtree 31899
+Sum -98041 90394
+Sum 92184 97323
+Insert -24814
+Sum -90511 58098
+Insert -48151
+Insert 63736
+Subtree -16382
+Sum 45769 75342
+Insert 41982
+Sum 1719 42457
+Insert -17854
+Insert 56450
+Sum 59672 95823
+Delete 92966
+Insert 92125
+Insert 77044
+Insert -5792
+Insert -42123
+Insert -36419
+Insert 56174
+Insert -96771
+Sum -73428 79431
+Insert 50243
+Subtree -55553
+Insert 15055
+Insert 38506
+Subtree -67721
+Insert 19934
+Insert 81532
+Insert -12901
+Insert -42856
+Sum -6051 51921
+Insert -19520
+Insert -38743
+Insert -19452
+Delete 81532
+Insert 80094
+Sum 92839 97446
+Insert 32867
+Insert 91012
+Delete -96771
+Sum 83648 83960
+Insert 62746
+Insert 31495
+Delete 25267
+Insert -50266
+Delete 86001
+Sum -84296 -13738
+Insert -36508
+Insert 35919
+Insert 56249
+Insert -55868
+Insert -5561
+Delete 87761
+Delete 12412
+Delete 31549
+Insert 66307
+Delete 67763
+Insert 79936
+Sum -29324 74998
+Delete -36350
+Delete 36588
+Insert -47234
+Insert -19399
+Sum 87850 92672
+Insert -97251
+Delete -42123
+Insert 31455
+Sum -27855 86221
+Insert -17508
+Insert -93240
+Insert -88445
+Insert -90271
+Insert -33013
+Sum 23103 67888
+Insert 45694
+Insert 80123
+Delete 90820
+Subtree -26713
+Sum -76362 -44435
+Insert 2485
+Delete 53945
+Delete -47316
+Subtree 72732
+Subtree 51310
+Subtree 77129
+Sum -20831 95098
+Insert -94075
+Insert 67311
+Subtree 71582
+Insert -76786
+Sum -63629 -56823
+Insert 56948
+Sum 50123 79125
+Insert -42716
+Insert 38953
+Insert 88110
+Sum -19307 71360
+Delete 83899
+Delete 31899
+Insert -65831
+Sum -25655 26723
+Insert -55419
+Delete 96813
+Subtree -31739
+Insert -49318
+Insert -36407
+Insert -46176
+Delete 4471
+Insert -69782
+Insert -61836
+Insert 62128
+Insert -65249
+Insert 67230
+Insert 59025
+Insert -86276
+Sum 38217 41462
+Insert 5176
+Sum 28564 74050
+Delete 15133
+Insert 88615
+Sum -49821 -36005
+Delete 75231
+Insert -2447
+Delete -89676
+Delete 75823
+Delete -78600
+Delete -72030
+Sum 92708 95109
+Insert 71369
+Delete -42310
+Insert -80926
+Insert 83445
+Insert -24930
+Insert -61587
+Insert 72306
+Insert 92123
+Sum -27754 -26239
+Sum 4959 84196
+Sum -43666 91368
+Delete -43135
+Insert 11499
+Delete -1327
+Subtree -94075
+Insert 79273
+Sum 67950 77851
+Insert -67858
+Delete 46803
+Sum 86433 91999
+Insert 50942
+Sum -42441 6546
+Insert -41837
+Subtree 38953
+Delete -61836
+Insert 32951
+Sum -96894 -89504
+Sum -928 79964
+Delete 37655
+Sum -69950 55355
+Insert 91439
+Delete -42764
+Insert -1826
+Insert 31305
+Insert -97792
+Insert 66924
+Insert -94293
+Delete -75472
+Insert 2702
+Delete -48151
+Insert -76232
+Insert -80036
+Insert -38542
+Insert 64659
+Insert 56787
+Sum -73239 82912
+Insert 3253
+Sum -58615 -28939
+Delete 70168
+Insert 33604
+Insert 15775
+Sum -64270 4220
+Insert 24224
+Subtree 73298
+Delete 46230
+Insert 90313
+Insert 23351
+Subtree -14477
+Delete 10615
+Insert -68088
+Sum 66256 68691
+Sum 88752 88950
+Sum 25878 89813
+Delete 15254
+Insert -76859
+Insert 8384
+Subtree -40238
+Delete 40880
+Sum 47253 86103
+Insert -91234
+Sum 27374 85928
+Insert -36149
+Insert 78780
+Insert 45995
+Sum 43586 99770
+Insert 24031
+Subtree 92428
+Insert 85111
+Insert 23536
+Sum -63741 30585
+Insert -23903
+Subtree -45394
+Insert -24464
+Insert -16851
+Insert 91260
+Sum -63408 -61232
+Subtree -21071
+Insert -83273
+Sum -32670 78631
+Subtree -34060
+Delete -28172
+Sum -24454 -11169
+Insert -91295
+Insert 2
+Sum 77491 83185
+Insert 70376
+Insert -57039
+Insert 98250
+Insert 51813
+Sum -79399 -62785
+Insert -9130
+Insert -29412
+Delete 66307
+Insert -39287
+Insert 27623
+Subtree 91135
+Delete 29958
+Sum -9952 87662
+Insert -45132
+Insert -43339
+Subtree -92098
+Insert -57083
+Subtree 64100
+Insert 16947
+Sum -87086 -63309
+Insert 35595
+Delete -40238
+Subtree 61990
+Insert 62458
+Subtree -46120
+Sum 12826 50244
+Insert 58929
+Insert 12136
+Sum -55898 83498
+Insert -73750
+Insert -15260
+Insert -77441
+Insert -21803
+Insert -86476
+Insert -85066
+Sum -32753 -1600
+Insert -49384
+Subtree -37357
+Delete -84459
+Insert 85553
+Insert -92419
+Insert 19550
+Insert -80564
+Delete -46135
+Insert 83735
+Insert 82388
+Subtree -5792
+Insert -84330
+Sum -69932 -52327
+Insert -91724
+Delete 63381
+Insert 32361
+Insert 37527
+Insert 70736
+Insert -72356
+Sum 40207 43251
+Sum 96794 98198
+Sum -48422 99049
+Subtree -87503
+Delete -65831
+Subtree 92123
+Sum 71591 83427
+Insert 69679
+Sum -56352 -20180
+Delete 2485
+Insert 33796
+Insert -29994
+Delete 52120
+Delete -83720
+Delete -81730
+Insert 93676
+Insert -63600
+Insert 60032
+Delete -5792
+Insert -8465
+Delete 75953
+Insert 83990
+Subtree -72385
+Delete 70736
+Insert 88606
+Insert 96523
+Sum -24223 75018
+Insert 18520
+Delete -67721
+Subtree -29412
+Insert -99944
+Insert 54315
+Insert -63488
+Insert -7833
+Delete 2702
+Delete 15055
+Subtree -94075
+Insert -12898
+Sum 4525 13137
+Insert 94032
+Insert 47580
+Insert -3787
+Insert -84632
+Insert -26342
+Subtree 69679
+Sum -47362 46074
+Insert 62172
+Delete -94075
+Sum 56153 60801
+Insert -70433
+Sum 69395 88405
+Insert 79326
+Insert 88946
+Insert 95860
+Sum 38112 79045
+Sum -68570 -24144
+Insert 56941
+Insert 75297
+Insert 97232
+Delete -42716
+Subtree -57039
+Insert -48726
+Subtree -64322
+Delete -31076
+Insert 89904
+Insert 73603
+Sum -72163 -2463
+Subtree -94293
+Insert -42645
+Sum 16841 75713
+Delete -92433
+Sum -57565 51721
+Insert 19402
+Insert -61116
+Subtree 62135
+Insert 69157
+Insert 37427
+Sum 97990 99112
+Insert -74460
+Delete 69157
+Sum 72882 96746
+Delete 67230
+Insert -8072
+Sum 80783 94803
+Insert 26795
+Delete -11984
+Insert -8851
+Insert 63202
+Insert 389
+Insert -68165
+Sum 60871 65193
+Insert 16335
+Insert -79870
+Subtree -79870
+Subtree -76232
+Insert -24096
+Insert 64640
+Insert -120
+Insert 2721
+Sum 31503 76509
+Subtree -65724
+Sum 53292 77747
+Insert -14553
+Delete 79936
+Insert 18268
+Subtree 18268
+Insert -7565
+Delete 24224
+Sum 97180 98159
+Sum 17394 48244
+Insert 38161
+Insert -20338
+Insert -49612
+Insert 24138
+Insert -38289
+Insert -40624
+Insert -60035
+Delete -90271
+Insert -27128
+Insert -98318
+Insert 60095
+Sum -38428 58803
+Insert -89103
+Sum 12494 92926
+Delete -3787
+Delete 96258
+Insert 44297
+Sum -25949 71360
+Insert -43052
+Sum -99314 -34228
+Insert 60739
+Insert 24683
+Sum 28733 45840
+Sum 53692 67982
+Subtree 23351
+Insert 92617
+Insert 33972
+Insert -33158
+Insert 30076
+Insert -20507
+Sum 97499 97923
+Insert -57936
+Delete -48183
+Delete -33234
+Insert 6627
+Insert 97434
+Delete 94032
+Insert -8162
+Subtree -75677
+Insert 29910
+Insert 20084
+Insert 5080
+Delete -14477
+Insert -6153
+Delete -79351
+Insert -36675
+Insert -86242
+Sum 90931 99210
+Sum 94249 96899
+Insert 73922
+Insert 76312
+Delete -41538
+Sum -98160 59852
+Sum -21473 59378
+Insert 6165
+Insert -57823
+Insert 80534
+Insert 31555
+Delete 20941
+Insert -87930
+Insert 93251
+Delete -49318
+Insert 52515
+Insert 25191
+Delete -91724
+Delete -9130
+Subtree -8147
+Insert 25323
+Insert 15601
+Insert -3519
+Insert 30893
+Insert 50994
+Delete 88110
+Subtree 18268
+Insert -45231
+Subtree 93676
+Delete 88174
+Insert 19308
+Insert 66033
+Insert 33180
+Insert 14279
+Sum -55517 56884
+Subtree 19127
+Insert -26744
+Delete -24311
+Sum 64167 88829
+Insert 21987
+Insert 15062
+Sum -34638 30969
+Delete -34060
+Insert 89927
+Insert -96007
+Insert 46144
+Insert 77496
+Insert -42596
+Sum -38658 33247
+Insert -57117
+Insert -22871
+Insert 32639
+Insert 42201
+Insert 66403
+Sum -86003 -55286
+Insert -62521
+Delete -16443
+Sum 79664 95149
+Insert 44349
+Insert -68710
+Subtree -45132
+Delete 32639
+Insert 75120
+Sum 77571 82312
+Delete -63157
+Subtree 37427
+Insert -33719
+Insert -59224
+Sum 52135 85063
+Insert -33503
+Insert -16106
+Insert 1260
+Insert 78810
+Insert 45315
+Sum 22257 27279
+Insert 61703
+Delete 54349
+Sum -39967 -19021
+Delete -49741
+Sum 35240 61975
+Insert -4980
+Delete 92125
+Sum 96974 99746
+Insert 50649
+Sum -96167 86769
+Subtree 14880
+Insert -39731
+Insert -11424
+Insert 70861
+Delete -77687
+Sum 26933 31941
+Insert -68432
+Subtree -35537
+Insert 63229
+Delete -46120
+Sum 1343 80489
+Insert -59648
+Subtree -4830
+Insert -38544
+Sum -68493 21828
+Insert 84859
+Subtree 51813
+Insert -60515
+Subtree -11801
+Subtree -89682
+Insert 26087
+Insert 17838
+Sum 58877 75053
+Delete -83273
+Delete -22966
+Delete 42794
+Insert -29500
+Delete 7101
+Insert -25949
+Sum -86505 -12574
+Insert 56671
+Insert -18975
+Insert -67895
+Insert -99957
+Insert 39866
+Insert 4685
+Subtree 77044
+Insert 4179
+Delete -46176
+Insert -62225
+Delete 23536
+Sum -10661 -4809
+Insert -15509
+Insert -16181
+Sum -55736 -27692
+Insert -25651
+Insert -30265
+Delete 67854
+Insert -33743
+Sum 7773 92838
+Insert -49576
+Insert -98728
+Insert 64302
+Insert 28375
+Insert -74387
+Sum -29461 -8190
+Insert -63768
+Insert -10355
+Insert -65775
+Insert 63404
+Insert 52451
+Delete -63600
+Insert -17371
+Sum -5667 65179
+Sum -31935 49912
+Insert -99422
+Insert 88484
+Sum -67127 92376
+Delete 64193
+Insert 78195
+Sum 62107 64972
+Delete -42596
+Sum -61912 94621
+Insert 51131
+Insert 87627
+Insert -28918
+Sum 72472 76065
+Insert -21019
+Delete -25210
+Insert 55278
+Sum -82437 61446
+Insert -5164
+Delete 52048
+Insert 73254
+Insert 13144
+Sum -15289 -6342
+Subtree -26744
+Sum 27157 39889
+Delete 85111
+Insert -32826
+Insert -51097
+Sum 71320 73670
+Sum -13320 29483
+Sum -69053 -29171
+Insert 44590
+Subtree -10560
+Sum -73681 6776
+Insert 71797
+Sum -85394 -23220
+Delete 91439
+Insert -7805
+Delete -25949
+Insert -11319
+Insert 44168
+Sum 42621 46944
+Insert 91711
+Insert -29017
+Insert 88297
+Insert 78290
+Insert -59716
+Insert 39199
+Insert 34181
+Delete -16851
+Delete -65775
+Delete 45315
+Delete -21019
+Insert -70718
+Insert 85310
+Sum -59593 -53455
+Insert 67468
+Delete 14279
+Insert -17399
+Insert -96458
+Insert -55618
+Subtree -7564
+Insert 97353
+Insert 3355
+Insert -69338
+Insert -30492
+Insert -68220
+Delete -83
+Delete 50994
+Insert -80597
+Delete -73526
+Delete -55868
+Subtree -21071
+Sum -44492 -13246
+Insert -72153
+Subtree 71296
+Insert -60264
+Insert -46561
+Insert 33077
+Insert -4634
+Insert -80971
+Insert -97148
+Delete 64871
+Insert -35133
+Sum 21303 27851
+Delete -25204
+Insert 97425
+Insert -64631
+Insert 85346
+Insert -821
+Delete -38289
+Delete -18975
+Subtree -92684
+Insert 5470
+Subtree 19402
+Subtree -76859
+Sum -12660 79772
+Subtree -41837
+Sum -96002 -67479
+Insert -28329
+Insert 3503
+Sum 27484 79376
+Delete -39731
+Insert -17447
+Insert -41945
+Insert -45427
+Insert -645
+Insert 93286
+Insert 42848
+Insert -59617
+Insert -72206
+Delete -11424
+Insert 53969
+Insert 96638
+Insert 40416
+Delete -6153
+Subtree 56787
+Subtree -869
+Insert -10469
+Subtree 29110
+Delete 92428
+Delete -45231
+Subtree -80971
+Subtree -75756
+Insert -64397
+Insert -11877
+Insert 45883
+Sum 48295 72019
+Insert 2143
+Delete -8465
+Delete 62135
+Insert 67860
+Sum -55654 19698
+Subtree -49612
+Insert -44926
+Insert -64672
+Delete 78780
+Insert 87228
+Insert 96088
+Insert -57176
+Sum 89348 99539
+Delete 56787
+Insert -307
+Insert -29324
+Sum 66314 79927
+Sum 35844 99496
+Insert -41307
+Sum -89835 -45134
+Insert 12197
+Insert -73032
+Delete -86476
+Insert 33605
+Sum 7579 57324
+Delete 33077
+Insert -38333
+Insert -39206
+Insert 21264
+Insert 92974
+Subtree -78935
+Insert -61134
+Insert 72010
+Sum -51981 96478
+Insert 58524
+Insert 11023
+Subtree 6126
+Delete -86863
+Sum -45857 99687
+Insert -19939
+Sum 57068 93941
+Insert 45507
+Insert 59793
+Delete -70718
+Sum 9214 10519
+Insert -54018
+Delete 4685
+Sum -50215 -205
+Sum 87236 95057
+Sum -76020 98214
+Insert 69228
+Delete 24953
+Insert -93612
+Insert 62419
+Insert -26940
+Sum -46521 -35884
+Delete -60515
+Insert 26600
+Insert 38521
+Sum 45523 48559
+Insert 13612
+Insert 74626
+Sum 12335 37479
+Insert 39944
+Delete -24464
+Insert -60463
+Sum 67775 91678
+Sum -98460 -14822
+Insert 26622
+Insert 27693
+Delete 92974
+Delete -99422
+Delete 86014
+Sum 33001 94107
+Sum -68298 59330
+Insert 81144
+Insert -91592
+Delete 55816
+Insert 58917
+Insert -4134
+Insert -51065
+Insert 63542
+Insert -33973
+Insert 89406
+Insert -49037
+Sum 3440 27947
+Insert -80270
+Delete -57823
+Insert -32048
+Delete -19399
+Sum -58629 65134
+Insert -67378
+Sum 31128 95946
+Insert 49845
+Insert -37842
+Insert 27002
+Insert -80613
+Insert -87410
+Insert 2004
+Insert 63465
+Insert -57997
+Sum -82109 -58140
+Insert -63686
+Insert -88187
+Sum 64861 71853
+Sum -94856 19117
+Sum 88333 97660
+Insert -62341
+Insert -64309
+Delete 19308
+Insert 55886
+Insert -91571
+Delete 91135
+Insert 83280
+Insert -13729
+Insert -57146
+Sum 9752 60575
+Insert -5172
+Insert 64196
+Delete 56941
+Insert -25883
+Insert 35502
+Delete -19967
+Insert 62504
+Insert -82204
+Subtree -19520
+Subtree -19452
+Sum -90397 5433
+Insert -65695
+Subtree -98728
+Insert -62726
+Insert 12228
+Sum -62686 41281
+Insert 17303
+Subtree 23351
+Insert 15757
+Subtree -32179
+Delete -37357
+Insert 68806
+Insert -95779
+Insert 16637
+Insert 47494
+Sum 17409 19378
+Sum 58788 83415
+Sum -44925 -21518
+Sum -92753 56846
+Sum -71190 -56958
+Insert 12522
+Delete -10355
+Sum -97874 48143
+Insert -73058
+Insert -44085
+Insert 13973
+Insert 89433
+Subtree -92419
+Delete 17912
+Subtree 49845
+Insert 31505
+Subtree -816
+Delete -77668
+Insert 14476
+Delete 29110
+Delete -68432
+Insert -92987
+Insert 45829
+Insert -89347
+Sum 13779 48397
+Insert 55024
+Sum 22568 37909
+Subtree -15509
+Subtree -26342
+Sum 2909 78509
+Sum -91710 -61260
+Insert -21355
+Delete 47580
+Subtree -20507
+Insert 51390
+Insert -96657
+Insert -28779
+Sum 42463 72750
+Delete 69228
+Insert 99627
+Insert -21018
+Insert -8290
+Delete -9147
+Insert 92878
+Insert 56956
+Sum 42905 84507
+Insert -79378
+Delete 66403
+Insert -15896
+Subtree -75677
+Insert 8670
+Insert 15630
+Subtree -33973
+Sum -86134 57291
+Sum 28810 95714
+Sum 14081 21310
+Subtree 72010
+Insert -41104
+Subtree 56249
+Insert 96226
+Insert 44388
+Sum 9109 15848
+Sum 32904 88718
+Insert 65021
+Delete 72306
+Delete 85310
+Subtree 5176
+Delete -60463
+Insert 52371
+Insert 14900
+Insert -64275
+Insert 49816
+Sum -78610 70562
+Insert -17428
+Insert -16873
+Insert 21269
+Insert 31100
+Delete -59224
+Delete -24930
+Insert 79948
+Subtree -4134
+Sum 18475 88644
+Delete 47494
+Insert -11171
+Delete -68379
+Delete -92098
+Sum 11894 51367
+Insert -16378
+Sum -76586 98663
+Insert 80005
+Insert -22915
+Sum -19687 61810
+Insert -77191
+Insert 87790
+Subtree 61835
+Sum -60696 -23730
+Delete 61703
+Insert 4634
+Sum 97620 99443
+Insert 27783
+Subtree 80123
+Delete -83604
+Insert 70906
+Sum 33793 74179
+Insert 5621
+Sum -4753 70803
+Subtree -74387
+Insert 58248
+Insert -81594
+Insert 45367
+Insert -18950
+Sum -9804 80509
+Insert -77366
+Subtree 64659
+Insert -22203
+Sum 72284 82548
+Insert -52553
+Sum 75075 84776
+Insert -15563
+Insert 90870
+Delete -55553
+Insert -93398
+Insert -49852
+Insert 61948
+Insert -73281
+Delete 64019
+Insert -37963
+Subtree 2143
+Insert -57571
+Insert 73278
+Sum 97779 99726
+Subtree 44168
+Sum -3113 67698
+Insert -48954
+Insert 92417
+Sum 110 79404
+Insert -22411
+Sum 42403 89823
+Insert -63169
+Subtree -76232
+Insert 1706
+Sum 38374 83805
+Insert -44228
+Sum 88137 93437
+Delete -67858
+Delete -60676
+Insert 95382
+Insert -88999
+Insert 77857
+Subtree 49816
+Insert -74315
+Insert 56863
+Sum -55220 75619
+Insert -51776
+Insert 41406
+Insert -23510
+Insert -41421
+Insert -54696
+Insert 7341
+Delete -87410
+Sum -73992 76882
+Insert -69752
+Insert 54044
+Sum -11751 87927
+Sum -63286 37524
+Delete -30908
+Sum -62935 87554
+Insert 13744
+Delete 61835
+Insert 50605
+Delete -60035
+Delete -60785
+Insert -41984
+Subtree -28329
+Delete 60032
+Subtree 53969
+Delete 69679
+Insert 6209
+Delete -74315
+Insert -24721
+Sum -13903 33194
+Insert 58994
+Sum -94507 81343
+Insert 11578
+Insert 76627
+Insert -96299
+Sum -14834 21098
+Insert 2237
+Insert -33837
+Insert 69763
+Insert 51992
+Insert 72612
+Sum -21623 -4883
+Insert -36354
+Insert 20855
+Insert 48894
+Insert 88508
+Delete 11248
+Sum -14395 60408
+Delete -84632
+Sum 90954 91546
+Subtree 51320
+Delete 91711
+Insert -23395
+Insert -47581
+Sum -69886 65749
+Subtree 12522
+Insert 78498
+Insert -68420
+Sum 96000 99085
+Sum -52633 59913
+Insert 98174
+Sum -73092 -58903
+Insert 94589
+Insert 18000
+Subtree -92419
+Insert -80465
+Insert 28165
+Insert 26163
+Sum -59098 -52142
+Insert 49598
+Subtree -3415
+Insert -40731
+Delete 73278
+Insert 19087
+Insert 26426
+Insert -43123
+Delete 58384
+Sum -43793 -4417
+Insert 10739
+Insert -9062
+Insert 31091
+Insert -79216
+Sum -10718 74202
+Insert -8085
+Sum 73528 95610
+Delete -89103
+Sum 35619 56783
+Subtree -24570
+Insert -6071
+Delete 8997
+Insert -56899
+Insert -22092
+Insert 42798
+Insert -67602
+Sum 21480 63254
+Delete 80005
+Insert -28756
+Sum -1306 85224
+Subtree -61116
+Sum -82210 -53594
+Sum 77174 86526
+Delete -65695
+Delete 80534
+Insert -11427
+Subtree -91571
+Insert 24054
+Insert -57304
+Delete 21264
+Insert -39981
+Delete -2200
+Subtree -11124
+Subtree -28329
+Insert -42186
+Sum 74714 83567
+Sum 51075 72845
+Delete 2237
+Insert 83750
+Subtree 15630
+Delete -34505
+Insert -99756
+Insert 89678
+Delete 95254
+Sum -70855 -26895
+Insert 66768
+Sum 26411 53738
+Sum 11294 59961
+Insert 33357
+Insert 28003
+Delete -17428
+Insert -49789
+Insert 3191
+Insert 34435
+Insert -39497
+Insert -87074
+Subtree -33013
+Delete 18000
+Insert 31378
+Insert -52360
+Sum 27979 57347
+Insert 23323
+Insert -33991
+Delete -25023
+Insert 11683
+Insert -3185
+Sum -84752 -30123
+Delete -645
+Insert -56352
+Insert 60973
+Sum -96639 84801
+Subtree -41945
+Sum 4441 16161
+Subtree 31495
+Delete 27783
+Insert -76592
+Subtree 80094
+Delete -22915
+Delete -22138
+Insert -46612
+Sum -39171 -29707
+Subtree -49576
+Insert 3677
+Delete 24054
+Subtree 31305
+Delete 42708
+Insert -49341
+Sum 14133 76633
+Subtree -72206
+Delete -43339
+Insert -5231
+Delete -37842
+Insert 32018
+Delete 71263
+Sum -95726 70806
+Insert 2666
+Delete -97792
+Insert 23596
+Subtree 92123
+Insert 56601
+Subtree 79948
+Subtree 97434
+Insert 30234
+Sum 50992 73260
+Insert -68822
+Sum 57585 83688
+Sum -87466 -72942
+Sum -44163 78108
+Insert -96842
+Insert 47137
+Sum 67533 84446
+Sum -30535 44597
+Sum -81124 80863
+Insert -90506
+Sum -60176 -9908
+Insert -66538
+Delete -31739
+Subtree -16106
+Insert -37092
+Insert -37569
+Delete 98174
+Insert 73466
+Insert -62109
+Insert 2730
+Sum -11336 36743
+Delete 58994
+Sum -21714 85983
+Sum -72960 -27692
+Sum -28147 27147
+Insert 62967
+Delete 60095
+Delete -63169
+Insert 82705
+Subtree -49852
+Insert 83254
+Insert -84651
+Insert 82317
+Insert 96270
+Delete -69752
+Insert 9287
+Sum -67244 82942
+Insert -27136
+Delete 81303
+Delete -29017
+Insert -67968
+Insert 34837
+Sum 312 18724
+Insert -86859
+Delete 45853
+Insert -11939
+Sum -77152 55409
+Subtree -14292
+Insert 32551
+Delete -13729
+Delete -41307
+Insert -79637
+Insert 62160
+Insert 426
+Insert -33420
+Subtree 62128
+Insert 26684
+Delete -8851
+Delete -65249
+Sum 9597 81402
+Insert 81299
+Subtree -57146
+Sum -92705 -43678
+Delete -65610
+Insert -13092
+Insert -4269
+Delete 3355
+Insert 2137
+Sum 36529 45085
+Subtree -17854
+Insert -27691
+Insert -86569
+Insert 52217
+Insert -95478
+Subtree 32951
+Insert -50528
+Insert -19865
+Delete 71582
+Sum 11956 90425
+Insert 54438
+Insert 34708
+Delete 83254
+Delete -63686
+Insert 47627
+Insert -82144
+Subtree 89406
+Sum 36718 51024
+Insert 37309
+Delete -26342
+Insert -91806
+Subtree -21355
+Delete 8384
+Delete -79870
+Delete -4830
+Delete 76312
+Insert 46372
+Insert -98466
+Sum 82713 83415
+Insert -38815
+Delete -39981
+Sum -34724 9248
+Sum 86682 95462
+Insert -34307
+Delete -17447
+Sum -79131 -47526
+Sum 59035 88050
+Insert 1299
+Sum -45973 65226
+Insert 56932
+Subtree 93251
+Insert 5442
+Subtree -3185
+Insert 61357
+Insert -88018
+Delete 93024
+Delete 90313
+Delete 50605
+Insert 2436
+Sum 85095 90605
+Insert -23442
+Delete -41104
+Delete 2436
+Insert -70779
+Insert -94513
+Subtree -42856
+Insert -51369
+Delete -40731
+Sum 29173 39689
+Insert -59308
+Sum 19552 99165
+Delete -33837
+Insert -73585
+Subtree 91520
+Insert 18224
+Insert -91146
+Insert -50323
+Insert 28397
+Insert -51685
+Sum 45656 92307
+Insert -2586
+Insert 28797
+Insert -20030
+Sum 3814 19833
+Insert -99833
+Insert 72417
+Insert 27216
+Delete 34181
+Insert -74607
+Insert -51063
+Insert 81942
+Sum 85373 97891
+Sum -86498 51475
+Delete -16873
+Sum -78030 -53083
+Insert 20622
+Delete 44590
+Sum 89994 90596
+Insert -35588
+Insert -99142
+Sum 20637 22021
+Insert -94905
+Insert 47208
+Subtree 26622
+Sum -66387 38343
+Insert -25566
+Subtree 6165
+Insert -77616
+Insert 33718
+Insert -78338
+Insert 94141
+Sum -13496 -2156
+Subtree -22092
+Insert 11437
+Delete 32018
+Delete 23596
+Sum 41215 92542
+Delete 39866
+Insert -87216
+Insert -98231
+Sum 97832 98086
+Subtree 27352
+Insert -5953
+Insert -97841
+Sum 50503 52126
+Insert -59413
+Sum 80288 84417
+Delete -74460
+Insert -34421
+Insert 41407
+Insert 76114
+Insert 35385
+Insert 89497
+Insert 50401
+Insert -45906
+Insert -99292
+Sum 22460 81215
+Insert -93632
+Sum -62004 36680
+Subtree 72417
+Subtree 18268
+Sum -79258 -39931
+Sum -44049 60220
+Insert -59526
+Sum 44151 84058
+Insert -6425
+Delete 42848
+Insert -40430
+Delete -50528
+Insert -58804
+Insert 11623
+Insert 38657
+Sum 73080 87439
+Delete 14880
+Insert -16687
+Sum 34461 46332
+Delete -29500
+Sum 87548 92073
+Insert -38536
+Delete -69338
+Insert 96340
+Delete -57936
+Insert -55101
+Sum -32757 5459
+Delete 83445
+Sum -37776 -29728
+Sum -3828 6828
+Sum 38975 80162
+Insert 85277
+Insert -35195
+Insert -85576
+Delete 35919
+Sum 14792 47552
+Insert -26064
+Insert 50325
+Insert 89871
+Insert -49870
+Sum 65847 93224
+Insert -63546
+Subtree -73064
+Insert 49138
+Sum 60689 93194
+Insert 5267
+Insert -98410
+Insert 84426
+Sum 86577 87014
+Insert -60133
+Delete 85553
+Sum -29622 53813
+Insert -77416
+Insert 95721
+Sum -28422 46851
+Insert 39711
+Delete -35537
+Insert 39854
+Delete 81723
+Insert 77548
+Insert -48897
+Delete -95478
+Insert -4043
+Delete 27571
+Delete -86753
+Insert 71577
+Insert 72311
+Delete 6627
+Insert 64408
+Insert 41935
+Insert -19381
+Sum -1931 77506
+Insert -87176
+Delete 51310
+Delete -12898
+Sum -34952 48108
+Insert 76625
+Delete 37473
+Delete -63546
+Insert -87472
+Insert -78009
+Insert -2267
+Insert 65572
+Insert 99450
+Insert 30066
+Insert -50307
+Sum 98508 99073
+Insert -94032
+Insert -91923
+Insert -2701
+Insert -25898
+Insert 57276
+Insert -1569
+Insert 87242
+Insert -84115
+Insert 56620
+Insert -19654
+Subtree 62419
+Insert 57754
+Insert 12769
+Sum -29607 81581
+Sum 60046 93848
+Insert 60706
+Insert 40072
+Sum 99579 99895
+Delete 2601
+Delete -56588
+Delete -39562
+Subtree 75297
+Insert 88439
+Subtree -72206
+Insert -64300
+Insert 96827
+Sum -34320 99547
+Insert -18135
+Sum 47748 59733
+Insert 38116
+Sum 43665 53007
+Sum 8019 8699
+Sum 37654 74304
+Insert 93747
+Delete 66181
+Insert 1882
+Delete -48897
+Insert 56857
+Sum -89354 -13039
+Insert 17233
+Subtree -77191
+Sum -88421 -8774
+Subtree 35034
+Subtree -16687
+Insert -94756
+Sum 30034 32386
+Insert -52094
+Sum -1507 3086
+Delete 92878
+Sum -52720 45733
+Delete 93989
+Sum 83065 87699
+Insert 98422
+Subtree -97314
+Sum 2883 51659
+Subtree -56352
+Insert 32053
+Sum 23840 62547
+Insert -31967
+Insert 66192
+Delete -29324
+Insert 35821
+Sum 23720 86541
+Subtree -72206
+Insert 33643
+Subtree 40072
+Insert 60488
+Insert -32836
+Subtree -94017
+Subtree -68088
+Sum -7891 89401
+Delete 27216
+Insert 81974
+Insert 3426
+Delete -60133
+Delete -99957
+Delete 25191
+Insert -50283
+Subtree 11623
+Insert -31367
+Insert 22530
+Insert 2204
+Insert -15533
+Sum 11288 75132
+Delete 99450
+Subtree -18950
+Delete 39870
+Delete -48954
+Delete 11345
+Sum 61035 86014
+Insert -32487
+Sum 39418 74642
+Insert -84707
+Insert 58292
+Subtree 4179
+Insert 56738
+Insert -43537
+Sum 96087 99612
+Insert -96564
+Subtree 72612
+Insert -2683
+Sum 9844 44201
+Insert -85585
+Insert 30591
+Insert -85021
+Sum -33036 12185
+Sum 38614 67345
+Insert 37437
+Insert 49742
+Subtree 93286
+Insert 53727
+Sum -21946 82903
+Delete -59716
+Insert -90546
+Sum 68711 98552
+Sum -29220 98165
+Insert -26170
+Insert -35248
+Insert 75056
+Delete 89433
+Subtree 51992
+Insert -42091
+Insert -48256
+Insert -46321
+Insert -6674
+Sum 22184 46762
+Sum -57766 -54755
+Subtree -33420
+Insert 74070
+Sum 13172 21325
+Sum -24652 8564
+Delete -23395
+Delete 56601
+Sum -11292 61056
+Sum 2379 45711
+Delete -14553
+Delete 65572
+Insert -38535
+Insert 42997
+Sum 20188 94199
+Insert -48787
+Insert 96695
+Sum 84284 88366
+Sum 8685 66260
+Delete -50307
+Delete 37437
+Delete -49870
+Insert 99448
+Insert 87534
+Insert 94495
+Insert -32431
+Subtree 62419
+Subtree 30234
+Delete -51063
+Insert -83389
+Sum 25760 72986
+Delete -19452
+Insert 14341
+Delete 28397
+Subtree -57117
+Delete -34421
+Delete -96842
+Insert -95222
+Delete -21803
+Sum -17871 16299
+Insert -39639
+Insert -95570
+Insert 75663
+Insert 93546
+Insert 80656
+Delete -37436
+Subtree 62746
+Insert -3698
+Sum -73538 96399
+Insert -27723
+Sum -66092 82099
+Sum -64866 26099
+Delete 5176
+Insert -44462
+Insert -59071
+Delete -56899
+Insert 6875
+Sum -44226 -40117
+Subtree 77044
+Subtree -28918
+Insert 32236
+Delete -39206
+Delete 28797
+Insert 44845
+Insert -61193
+Insert -61747
+Sum -87401 -32710
+Delete -97841
+Insert 67649
+Sum -74157 93843
+Sum -50459 -8866
+Insert 75549
+Insert 33514
+Insert 82354
+Sum -10971 -8821
+Insert -20219
+Insert 50757
+Subtree 88606
+Insert -8342
+Insert -47507
+Delete -4697
+Sum -68692 -46878
+Sum 97911 98939
+Insert 47204
+Sum -65631 -1416
+Sum -87673 33234
+Insert 11259
+Subtree -5953
+Insert -52817
+Insert -82064
+Insert 24200
+Subtree -33827
+Sum -10697 -8671
+Insert -81086
+Insert -68842
+Insert 35229
+Insert 60785
+Insert 7388
+Sum 69976 84504
+Subtree -62521
+Insert -97560
+Delete 83990
+Insert 86118
+Insert 15565
+Delete 72988
+Subtree -68088
+Delete 789
+Subtree 74626
+Insert 73928
+Sum 19154 96543
+Sum 67301 73567
+Insert -40453
+Insert -13767
+Insert 8282
+Insert -23150
+Insert 51101
+Delete -7119
+Insert 63680
+Sum 55906 78941
+Delete -81594
+Insert -68344
+Insert 3834
+Insert -88088
+Insert -76586
+Insert 14185
+Insert 78208
+Sum 766 25549
+Sum 1341 36479
+Sum -94601 83942
+Insert 76581
+Insert -24144
+Subtree 27002
+Sum 90660 92974
+Sum -82119 66359
+Subtree 82354
+Sum -26274 93247
+Sum 64484 93563
+Insert -56350
+Insert 9597
+Insert 19850
+Sum -64303 -63259
+Insert -52037
+Insert 32520
+Delete 13612
+Insert -39221
+Sum -11010 44550
+Insert 45135
+Insert 51694
+Insert -76703
+Insert 93333
+Insert 20906
+Sum 76460 98401
+Insert 33196
+Insert 75426
+Insert -47591
+Insert -40857
+Insert 28881
+Insert -24843
+Insert 15477
+Insert -95803
+Insert 28829
+Delete -89347
+Sum 21853 34041
+Insert 68753
+Delete -96458
+Sum -53240 18703
+Sum -19778 27874
+Sum 52992 73822
+Delete -25898
+Sum -62396 -32666
+Insert 43203
+Insert 55898
+Sum 80270 95329
+Insert 68886
+Sum 28348 99358
+Insert 33819
+Delete -1684
+Subtree -52037
+Delete 76627
+Insert -37979
+Sum 24697 65358
+Insert 79109
+Sum -27852 27537
+Insert 66305
+Insert -5847
+Delete -52553
+Delete 82478
+Delete 68806
+Sum 69801 95471
+Insert 18647
+Sum -28969 47058
+Delete -13162
+Sum -12121 87521
+Subtree -39221
+Sum 60129 86193
+Insert -48771
+Insert 67899
+Insert 5328
+Insert 60901
+Insert 7740
+Delete -9062
+Insert 65622
+Insert -92218
+Sum 62929 72735
+Subtree 94495
+Sum 10956 84668
+Insert 37588
+Sum 55518 66708
+Subtree -42856
+Subtree -91923
+Insert -84987
+Insert 8578
+Delete -56972
+Subtree 83750
+Delete 82354
+Subtree -67750
+Insert -86009
+Sum -37955 -37348
+Delete -7833
+Insert -23047
+Insert -23553
+Delete 93546
+Subtree -37569
+Insert 24583
+Insert 26333
+Subtree -35692
+Insert 91580
+Subtree -47507
+Delete -26744
+Insert -91452
+Insert 81417
+Subtree 28165
+Subtree 4179
+Insert 90761
+Delete -57304
+Insert 48825
+Insert -43521
+Insert -16353
+Delete -51369
+Delete -21018
+Insert -96371
+Insert -58668
+Sum -32431 88360
+Insert 35
+Insert -2240
+Insert -27649
+Insert 3225
+Insert -84061
+Insert -70117
+Sum -16590 80097
+Delete 35595
+Sum -98890 69776
+Insert -67428
+Subtree -1038
+Insert 5959
+Insert 54110
+Insert 78096
+Delete 90761
+Insert 75055
+Insert 27850
+Subtree 58292
+Insert -70893
+Subtree -39497
+Subtree -82064
+Subtree 88615
+Sum -80392 71773
+Sum -26110 -227
+Insert -22528
+Insert -96145
+Insert -54435
+Insert -52792
+Sum 12239 13692
+Insert 75361
+Insert -23279
+Delete 42201
+Sum 43167 51060
+Sum 51384 56540
+Insert 40430
+Subtree -32431
+Insert -12408
+Delete 45135
+Insert 6827
+Insert -70878
+Insert 82536
+Delete -92419
+Sum -38546 -33019
+Insert 7734
+Insert 55920
+Insert -20991
+Sum 39686 95796
+Subtree 81144
+Insert -45911
+Insert 20496
+Delete 73298
+Insert 91702
+Insert 55174
+Subtree 81652
+Insert -54565
+Insert -43066
+Subtree 87228
+Insert 95231
+Insert -79722
+Insert 97169
+Insert 82612
+Insert 41803
+Insert -81816
+Sum -57087 9845
+Sum -49440 -46162
+Insert -4473
+Insert 4336
+Insert -54590
+Delete 38521
+Sum -24589 11878
+Insert 72103
+Insert -49285
+Sum -92954 25666
+Delete -18950
+Delete 73254
+Insert -22424
+Insert 12751
+Sum 5957 7173
+Delete -17371
+Insert 20687
+Delete 10739
+Insert -52448
+Sum -86542 9635
+Insert 44509
+Sum -31348 54014
+Sum 30526 45133
+Insert -37420
+Insert -76660
+Subtree 93676
+Delete -52195
+Insert -99613
+Insert -16395
+Insert 4639
+Delete -87930
+Insert -22043
+Sum -17531 10986
+Sum 29307 58925
+Sum -58195 -54846
+Insert -64566
+Sum 43436 96950
+Delete 41407
+Insert -68966
+Delete -82144
+Insert -18496
+Delete 23323
+Insert 65871
+Sum 9546 10944
+Insert -52818
+Sum 68999 93042
+Delete -10560
+Delete -22871
+Sum -62981 46662
+Delete 83280
+Insert 28663
+Sum 56568 78585
+Sum 96886 97835
+Insert -37338
+Insert -63587
+Insert 75850
+Insert -92167
+Delete 20496
+Insert -81565
+Insert -584
+Insert -67689
+Delete 87242
+Delete 57754
+Delete 77496
+Delete -84884
+Sum -95066 -55759
+Delete 47204
+Subtree -62521
+Insert 92221
+Sum -20284 56783
+Insert 52897
+Insert -37100
+Sum -25629 11686
+Delete 20556
+Insert 14074
+Insert 11098
+Insert 31054
+Insert 47174
+Insert -97699
+Delete -36149
+Sum -73468 -57920
+Sum -33628 84924
+Insert -18208
+Sum 93072 98274
+Sum -32770 40554
+Insert 39729
+Sum -87109 -8167
+Sum -53835 -30833
+Insert 59192
+Sum -58776 59360
+Insert -87691
+Sum -46364 -41688
+Subtree 18333
+Insert 53955
+Delete -98728
+Subtree 24138
+Subtree -2586
+Insert -62251
+Insert 75429
+Insert 6178
+Sum -61503 50210
+Insert -34714
+Insert -42267
+Subtree -32836
+Insert -92939
+Insert -30868
+Insert 25860
+Insert -15210
+Sum 72864 88771
+Insert -58787
+Delete 96638
+Insert -55007
+Sum -31271 -20739
+Insert -2836
+Insert 3987
+Insert 95270
+Insert 50248
+Sum -70897 -68384
+Subtree -45132
+Insert -20740
+Sum -34008 49395
+Insert -17311
+Insert -45135
+Insert 74304
+Insert 95181
+Insert 2938
+Sum -65384 81736
+Insert -41652
+Sum 4797 70330
+Insert -43395
+Delete 18520
+Insert 56403
+Sum -32643 24347
+Sum 59995 96325
+Sum 13943 98287
+Delete 97434
+Subtree -73281
+Insert -70684
+Insert -96340
+Subtree -17399
+Sum -30481 91967
+Sum 13585 23372
+Subtree -58804
+Sum -36984 56031
+Insert -26514
+Insert -84922
+Sum -10180 42018
+Subtree 62419
+Insert 95238
+Insert -94796
+Sum -58934 56445
+Delete -54018
+Insert 64240
+Insert 14478
+Sum -80997 26674
+Subtree -21071
+Insert -83990
+Sum 39347 69962
+Insert -38275
+Delete 62746
+Sum -56623 69538
+Insert 2134
+Insert 82341
+Insert 51940
+Insert -26705
+Insert -17491
+Delete 77129
+Insert 25949
+Insert 70948
+Sum 59385 95166
+Insert 68206
+Sum -53525 49975
+Insert 15730
+Insert 7329
+Insert -46635
+Insert 77478
+Sum -22332 92820
+Insert 84250
+Delete 4179
+Sum 89322 99303
+Insert 21155
+Delete 49742
+Subtree 92417
+Insert 7860
+Insert -31245
+Sum -68147 87145
+Sum -76731 -55344
+Delete -93398
+Delete -45132
+Sum -45881 53573
+Sum -19038 -12784
+Subtree -91295
+Delete -38743
+Subtree -32826
+Sum 265 23254
+Insert 20545
+Insert -94298
+Sum -10343 66402
+Insert 89609
+Sum 89112 99604
+Sum 11051 36585
+Delete -91806
+Subtree -94756
+Sum -77722 -69686
+Insert 84710
+Insert 77758
+Sum 54126 82621
+Insert -28118
+Sum -99098 -24677
+Insert 88671
+Subtree 39729
+Sum -96896 43272
+Subtree 10494
+Delete 77548
+Delete 95270
+Delete -94513
+Insert 1928
+Sum -86605 -61117
+Insert -22785
+Delete -20219
+Insert 22600
+Sum 19831 69194
+Sum 43317 88613
+Insert -65135
+Insert -71584
+Insert 26227
+Insert -51265
+Insert -84400
+Insert -31605
+Subtree 55278
+Sum 50703 76875
+Delete 22530
+Sum 86067 95990
+Insert 1529
+Insert -70738
+Insert 41500
+Sum -12490 11575
+Insert -44663
+Sum -55570 333
+Insert -12523
+Insert -87023
+Sum -68659 88388
+Insert 9034
+Insert -36835
+Delete -32179
+Insert -32586
+Delete 56450
+Delete 82612
+Insert -91236
+Sum 78159 92272
+Sum -96509 95675
+Sum -41243 -1319
+Delete -59648
+Delete -91452
+Insert 9562
+Insert -47301
+Insert -51877
+Insert 18709
+Delete -97148
+Sum 98834 99498
+Sum -57822 36067
+Insert 52398
+Insert -57988
+Subtree -31967
+Sum 55736 66376
+Insert -44595
+Insert -17179
+Delete -38815
+Insert 70137
+Sum 24017 42659
+Insert 61278
+Delete 30234
+Insert 82681
+Subtree -65349
+Delete -72206
+Insert -4844
+Insert 10434
+Delete 17233
+Delete -91234
+Insert 41782
+Insert -42900
+Delete -98466
+Insert 6116
+Insert 45113
+Insert -60836
+Delete 24683
+Insert 19383
+Subtree -19090
+Insert 45355
+Sum -37431 81135
+Sum -56331 -39789
+Insert -6981
+Insert 75304
+Delete 89871
+Subtree -55007
+Insert 30917
+Sum 25230 42411
+Insert -56531
+Insert -5497
+Insert -44245
+Delete 43395
+Insert 80874
+Delete -28918
+Delete -47581
+Insert -49465
+Sum -33088 78759
+Insert -62395
+Insert -42741
+Insert -63291
+Delete 6126
+Sum -15235 -9952
+Insert -26843
+Insert -12435
+Delete 9034
+Sum 37073 76400
+Insert 18879
+Sum 35993 93227
+Insert -70724
+Insert -38923
+Sum 22337 48442
+Subtree -11171
+Delete -78935
+Sum 96425 98414
+Sum -91175 -6693
+Sum -27307 92358
+Insert -74962
+Sum -91478 69188
+Delete -44595
+Sum -12599 91383
+Sum -82038 42464
+Insert -36355
+Insert -30167
+Insert -20729
+Sum -71560 79496
+Delete -68966
+Insert 96306
+Delete 11259
+Delete 10434
+Insert -55930
+Insert 41555
+Subtree -50266
+Insert 57604
+Insert 29169
+Insert -7509
+Sum -43429 19302
+Sum -44993 -38295
+Insert 66213
+Delete 85346
+Subtree -17311
+Insert -25769
+Insert 69423
+Insert 22926
+Insert 49231
+Delete 93927
+Sum 87331 95783
+Delete -19381
+Delete 11499
+Insert 32818
+Delete 9565
+Sum 49201 72642
+Delete 75120
+Insert 32065
+Delete 30591
+Insert -65915
+Insert 24091
+Insert -71125
+Insert -43015
+Insert 78272
+Insert 71768
+Insert 32002
+Delete -16378
+Insert 9021
+Insert -10364
+Sum -29234 40694
+Insert 24331
+Insert 26044
+Insert 67850
+Insert 55829
+Sum -27037 13344
+Subtree 26622
+Sum 13721 86266
+Sum 1193 17869
+Insert 22616
+Delete 34708
+Subtree -84330
+Insert -11988
+Sum -75568 -69852
+Insert -32167
+Insert 79425
+Delete -75756
+Insert -9225
+Insert 23744
+Insert -10134
+Insert 55317
+Delete 54110
+Insert -20917
+Subtree 70906
+Insert -15237
+Insert 99605
+Sum -75351 -14762
+Delete -24570
+Sum 88152 94765
+Sum 70300 88313
+Insert -18282
+Insert 42880
+Sum -12136 7683
+Insert -39368
+Subtree 70948
+Insert 54509
+Sum 51315 71880
+Subtree 24138
+Delete 62160
+Sum 90634 97057
+Insert -34292
+Insert -89181
+Subtree -92684
+Subtree 41555
+Insert 42400
+Insert 50321
+Insert 66823
+Subtree -93612
+Insert 62245
+Delete -49576
+Insert 32617
+Insert -9546
+Insert 92548
+Sum 63932 81094
+Insert 75619
+Delete -33158
+Delete 70137
+Subtree -52360
+Insert -21200
+Insert 88253
+Sum -115 38488
+Delete 38116
+Subtree 62504
+Insert -9224
+Delete 75056
+Insert -59709
+Sum -15997 5144
+Sum 22349 46723
+Sum 77543 96012
+Subtree -67602
+Sum 53634 75202
+Delete 57604
+Delete 45507
+Insert 92747
+Insert 58711
+Delete 75429
+Insert 17337
+Delete -84651
+Delete 66924
+Insert -80715
+Insert 74851
+Insert 94320
+Sum -48483 61004
+Sum -11699 -5633
+Delete 15565
+Delete 60326
+Insert -15877
+Insert -41990
+Insert 56816
+Delete 78096
+Insert 60090
+Insert 22862
+Insert -65671
+Insert 72595
+Subtree 82341
+Insert 81715
+Insert -1955
+Delete -38923
+Insert -61932
+Subtree 19934
+Insert 68646
+Subtree 50248
+Insert -24803
+Delete -99944
+Delete 67468
+Delete 93747
+Insert -97814
+Insert -10316
+Sum 74214 85473
+Insert 16688
+Delete 50321
+Delete -85585
+Insert 14500
+Subtree 52371
+Sum 7197 98322
+Sum 9767 33701
+Insert -99585
+Insert 64760
+Sum -74243 -43700
+Sum -52855 18810
+Sum 65681 81034
+Insert 8642
+Delete 96827
+Insert -88030
+Insert 29227
+Insert 28573
+Insert -94866
+Delete -85066
+Insert -95906
+Insert 70351
+Insert 21017
+Insert -27990
+Insert -55035
+Sum 97124 99082
+Delete -54435
+Sum 83953 86440
+Insert -4826
+Sum -71071 -3316
+Insert 1905
+Insert 56360
+Delete 8396
+Sum -63285 -17053
+Insert 15562
+Sum -67879 -28936
+Insert 55855
+Insert -23695
+Insert -38219
+Insert 12371
+Sum 18168 63986
+Insert -87788
+Subtree -62268
+Sum -27189 22063
+Delete 5442
+Delete -36508
+Insert -91502
+Insert 61585
+Delete 19550
+Sum -73989 -4609
+Insert 38287
+Subtree 27869
+Insert -3871
+Insert -32370
+Delete 92417
+Insert 88792
+Insert 13739
+Sum 82578 89626
+Subtree 51329
+Insert 57294
+Insert -38229
+Delete 66033
+Sum -39735 31870
+Insert -15466
+Subtree 82791
+Sum 53175 95651
+Insert 26796
+Sum -43646 31853
+Insert -84032
+Delete 18647
+Insert 29917
+Subtree -83372
+Subtree 51694
+Insert 6991
+Delete -97560
+Insert 50674
+Delete 73922
+Subtree 79326
+Delete 15757
+Insert -55578
+Sum -87663 44063
+Sum -83268 45015
+Sum -53077 91019
+Delete -12408
+Sum -52466 -27944
+Insert -24049
+Sum 84846 91491
+Sum -6333 28943
+Subtree 39944
+Sum 66512 90302
+Insert 51335
+Subtree 22154
+Insert -69598
+Insert -59632
+Insert -46619
+Sum 13881 80507
+Insert -44795
+Delete -91236
+Insert -54074
+Delete 55829
+Delete 53955
+Insert -92703
+Subtree 80094
+Delete 55024
+Delete 2721
+Delete -49384
+Sum 44775 54230
+Insert 43632
+Subtree 99627
+Sum -40703 64905
+Insert -79665
+Sum 98094 99061
+Insert -19709
+Delete 75304
+Insert -44296
+Delete 11623
+Insert 41166
+Insert 15321
+Delete -18282
+Insert -17510
+Insert -67918
+Insert -34530
+Insert 65509
+Delete 56932
+Sum 79162 81652
+Sum 62061 80597
+Insert 25226
+Sum 96246 98127
+Insert 82050
+Insert -43276
+Insert 82646
+Delete -42856
+Subtree 42997
+Sum -31760 13376
+Subtree 24138
+Insert 3879
+Sum -54485 93393
+Insert -20432
+Insert -26659
+Delete -93632
+Subtree 70376
+Insert -53224
+Insert -12675
+Insert 30543
+Sum -3971 45266
+Subtree 32867
+Subtree -33991
+Insert -5946
+Sum 17146 54094
+Sum 95418 96021
+Insert 37070
+Insert 24447
+Sum 42499 47543
+Subtree 21987
+Sum -36508 -5474
+Delete 39711
+Insert -43895
+Insert -99403
+Insert 59649
+Insert 87887
+Subtree -48616
+Delete -19865
+Insert -37707
+Sum -5349 96854
+Delete 96523
+Sum 35829 85543
+Sum 44044 58031
+Insert -92176
+Insert 50258
+Insert -37619
+Insert 58287
+Insert -82344
+Subtree 60488
+Insert -75388
+Insert -92740
+Delete 78290
+Sum 38318 78050
+Insert -75651
+Sum 55467 84090
+Insert -37070
+Sum 53580 56321
+Subtree -96340
+Delete 70948
+Sum -98359 -65306
+Insert 54590
+Insert 78103
+Delete -36419
+Subtree 17303
+Delete 70861
+Sum -40641 -19468
+Insert 70820
+Insert -81959
+Subtree 38887
+Insert 96878
+Sum 40558 54899
+Insert 51440
+Sum 27620 61850
+Insert 90972
+Subtree -30064
+Insert 98187
+Delete -64300
+Sum 28537 95304
+Insert -95025
+Insert 23803
+Sum -94757 74384
+Subtree 75426
+Insert -67764
+Insert -12984
+Insert -81727
+Insert -78104
+Sum 58823 62446
+Sum -32308 19616
+Sum -3075 10048
+Subtree 61357
+Insert 25879
+Insert -30598
+Insert 50280
+Delete 70376
+Delete 66305
+Sum 30214 83032
+Delete -90546
+Sum -34462 52600
+Sum 93608 97215
+Delete 37588
+Insert 9315
+Sum -99159 -20393
+Insert 27049
+Delete 79981
+Subtree 95721
+Subtree 19934
+Insert 29584
+Insert -80975
+Delete 17589
+Delete -17311
+Subtree 96270
+Insert 70095
+Insert 31879
+Sum -80079 22383
+Insert 62138
+Sum -52 88741
+Insert 34037
+Insert -87842
+Sum -82848 -42750
+Insert -65985
+Sum -11491 29408
+Insert -49810
+Insert 1017
+Insert 70000
+Subtree -37070
+Insert -20606
+Sum -40686 -17884
+Insert 62229
+Insert -98021
+Insert 20731
+Insert 8928
+Delete -12984
+Insert 26510
+Insert 33463
+Sum -65988 51212
+Insert 31990
+Insert 4804
+Insert -13994
+Sum 9866 82752
+Insert -25723
+Subtree 2666
+Insert -60107
+Insert -92883
+Insert 1300
+Delete -39368
+Sum 85550 96868
+Insert -48828
+Insert -51095
+Sum 10102 18707
+Subtree 6875
+Insert 31304
+Delete -67918
+Subtree 82791
+Sum -17778 30225
+Delete -43895
+Sum 38503 63004
+Delete 56956
+Delete -67895
+Insert 51021
+Subtree -16395
+Insert -99239
+Sum -46136 88523
+Insert 99695
+Insert -84957
+Sum -68029 75995
+Insert -88852
+Insert 18234
+Sum -9033 81103
+Insert -71379
+Insert -53906
+Insert 844
+Delete -15896
+Insert 49569
+Delete 50401
+Sum -51060 -25070
+Insert 49528
+Insert 70631
+Subtree 78810
+Insert 33313
+Insert -97851
+Sum -42894 5506
+Insert 52823
+Insert 56741
+Insert 77958
+Insert 15734
+Delete -86859
+Delete 31091
+Sum -31682 12931
+Sum -75780 -14335
+Sum -19433 7044
+Insert -17308
+Insert -62020
+Insert -30622
+Delete 6165
+Insert -94568
+Insert 86609
+Subtree -63763
+Sum 4882 93363
+Insert 61713
+Insert -4894
+Insert 3642
+Delete -59617
+Insert 12198
+Insert 9144
+Subtree -56531
+Insert 78453
+Sum -53046 87553
+Insert 19007
+Delete -2447
+Insert -91874
+Insert 37829
+Delete 66239
+Insert 23062
+Insert -89455
+Delete 64100
+Delete -56352
+Sum 48434 79411
+Insert 67803
+Delete -93240
+Insert 11382
+Subtree 89520
+Delete -99613
+Sum -68879 76394
+Insert 35062
+Sum 65885 77986
+Insert 14775
+Insert -5585
+Insert -18632
+Insert 64757
+Insert 9403
+Insert 79051
+Insert 33170
+Insert -98216
+Insert 3994
+Delete 88615
+Insert -75982
+Sum -35597 -12451
+Insert -99465
+Delete -4269
+Sum -88150 15092
+Delete 70351
+Sum 97037 99776
+Insert -34296
+Insert 61250
+Insert 40001
+Subtree 72732
+Sum -92730 34781
+Subtree -79722
+Insert -32956
+Subtree -9546
+Insert -17127
+Insert -82211
+Insert 40632
+Delete 80123
+Delete -56350
+Insert -55801
+Sum -78985 -62983
+Insert 85988
+Insert 25547
+Insert -20216
+Sum 34725 77388
+Delete 81974
+Insert 75524
+Sum 32297 58995
+Sum 69555 92343
+Subtree -37569
+Insert -26655
+Insert -34305
+Sum -95954 -3352
+Insert 54394
+Sum 87654 99764
+Insert -89748
+Insert 67030
+Insert -20866
+Insert -58159
+Subtree -74962
+Insert -24632
+Insert 77460
+Sum -68749 -66096
+Insert -2820
+Sum 82368 89273
+Delete 62245
+Subtree 82388
+Delete 389
+Delete -5231
+Sum 95269 98376
+Insert -55438
+Insert 3638
+Delete 63202
+Insert 10201
+Sum -18818 1326
+Insert -1616
+Delete 23744
+Sum 3043 81015
+Delete 32551
+Delete -2683
+Sum 67707 74294
+Insert 73458
+Insert -75540
+Sum -34866 25018
+Sum -8845 95674
+Delete 91580
+Insert -8008
+Delete -81291
+Subtree 3834
+Insert 64433
+Insert -56048
+Insert -22954
+Delete -18208
+Insert 70943
+Delete -28756
+Delete -37963
+Subtree 4639
+Delete 52515
+Delete 81417
+Insert 57909
+Sum 38853 57402
+Subtree 60973
+Insert -55042
+Insert -86114
+Insert 15707
+Delete 62128
+Insert -43014
+Insert -46387
+Delete -20866
+Insert 70926
+Insert 27394
+Insert 70327
+Insert -40688
+Insert -13900
+Insert 22034
+Sum -27166 -11931
+Insert 66228
+Delete 31879
+Insert 67901
+Insert 40149
+Sum 41463 98589
+Insert 8871
+Insert 89954
+Delete -40624
+Insert -2661
+Delete 33357
+Delete -307
+Insert -56852
+Insert 11154
+Sum -67284 -59751
+Insert -3238
+Subtree 41782
+Sum 64515 70820
+Insert -99536
+Insert -13889
+Insert 69672
+Insert -3747
+Subtree 41443
+Subtree 89678
+Delete -15237
+Subtree 49816
+Sum -70348 59047
+Insert -16472
+Sum -71028 -23081
+Insert -40610
+Insert -30727
+Insert -97749
+Delete -99142
+Delete -35133
+Insert 3784
+Delete 60090
+Insert 9959
+Insert 46319
+Sum -44245 14179
+Delete -73064
+Insert 27842
+Delete -3747
+Insert -46337
+Delete 15562
+Subtree -3238
+Delete -4634
+Insert -83317
+Delete 79425
+Insert 2704
+Insert -83970
+Insert -47831
+Sum 29754 85096
+Insert -72315
+Insert -83972
+Insert 6163
+Insert 55837
+Insert 2531
+Insert -40828
+Insert -65425
+Insert -68572
+Subtree 426
+Sum 88527 98086
+Insert 50875
+Insert -28102
+Insert -77249
+Sum 55540 89911
+Insert -44696
+Insert 24348
+Subtree -49852
+Delete 79109
+Sum -97270 -2476
+Insert 82349
+Sum 56977 73257
+Delete 33972
+Delete -81565
+Sum 58973 68784
+Insert 85235
+Insert 40154
+Delete -44795
+Delete -82344
+Insert 24119
+Insert -18868
+Insert -17077
+Insert -73414
+Insert 94157
+Insert 27042
+Delete 63315
+Sum 44529 74912
+Delete -68220
+Sum 22541 87559
+Insert -52672
+Sum -85263 94117
+Sum -4817 7094
+Sum 82730 84287
+Insert -97424
+Delete -16353
+Insert -48552
+Sum -80425 97357
+Insert 14656
+Insert 50737
+Insert -78442
+Subtree 91260
+Sum 62532 95422
+Delete -97314
+Sum 15763 37658
+Subtree 44297
+Sum -35296 16421
+Insert 84505
+Insert 53623
+Insert 28407
+Sum 17679 48888
+Sum 31537 72860
+Insert 39032
+Delete 78208
+Delete -60264
+Insert 85881
+Delete -484
+Delete 28663
+Insert 95864
+Insert -49039
+Insert -40168
+Subtree 87534
+Insert 45068
+Delete 12197
+Insert 38257
+Insert -18452
+Sum -84381 -79694
+Insert -53322
+Insert -85992
+Subtree -58159
+Insert -19940
+Insert 18463
+Delete 5959
+Insert -40238
+Insert 86725
+Delete 60973
+Insert 34684
+Insert 47393
+Insert 38331
+Insert -40621
+Insert 49652
+Insert 93471
+Delete -53322
+Sum 23854 78364
+Insert -32062
+Insert 39852
+Sum 68373 99095
+Insert 83339
+Insert 36610
+Delete 21269
+Sum -10725 86924
+Insert 39812
+Insert -40272
+Subtree -15481
+Delete -70738
+Delete 78498
+Subtree -65349
+Delete 60488
+Sum 84544 93757
+Insert -50905
+Insert 25080
+Sum -88733 3747
+Subtree -87842
+Insert -62708
+Sum 74056 97171
+Insert -85326
+Delete -38544
+Insert -87428
+Insert -69377
+Insert -4213
+Insert 28388
+Insert -97428
+Insert 12089
+Subtree 35821
+Insert -99780
+Delete -59526
+Subtree -3698
+Sum 65410 74608
+Insert -23937
+Subtree -4134
+Sum 97012 99226
+Insert -59498
+Insert 86661
+Sum -9334 49217
+Delete -13994
+Sum -58609 63440
+Sum 81039 98820
+Sum -31881 -5397
+Delete 99627
+Sum 67559 99090
+Sum 59513 60261
+Sum 21359 72217
+Insert 13147
+Insert -8427
+Delete 33196
+Insert 93635
+Insert -11651
+Insert 1947
+Insert 14936
+Sum 25424 82210
+Insert 390
+Insert -98991
+Subtree 70906
+Insert 91013
+Sum -34937 22147
+Insert 84504
+Insert -57849
+Sum 19248 94555
+Delete -13767
+Sum 44652 52986
+Insert 88859
+Insert 42858
+Insert -89383
+Delete -38536
+Sum 22940 91207
+Insert -59886
+Insert -52589
+Insert 20031
+Delete -16472
+Sum 85516 87991
+Insert -758
+Subtree -82211
+Insert -67581
+Insert -99850
+Sum -19770 66980
+Insert -30522
+Insert 92865
+Delete -81959
+Insert 73391
+Subtree 26087
+Insert 1211
+Sum -40149 -15813
+Insert 31064
+Insert -45759
+Insert -65918
+Delete -48552
+Insert -70527
+Subtree 7734
+Sum -46121 -37423
+Sum 17206 52114
+Sum 64092 71681
+Delete -3519
+Delete -62708
+Sum -74624 68850
+Sum 90619 94950
+Insert 93671
+Sum -17073 -5480
+Insert 56443
+Insert 406
+Insert -88168
+Insert -61225
+Insert 40023
+Insert -97717
+Insert 14414
+Insert 92516
+Insert 60606
+Sum 90497 98400
+Insert -54732
+Sum -62284 -4776
+Insert 85301
+Delete 81299
+Insert -5351
+Sum -882 154
+Insert -22735
+Insert 14809
+Delete -83970
+Subtree -97814
+Delete -32062
+Insert 32533
+Sum -52357 -43602
+Insert 58349
+Delete -62109
+Delete 1905
+Insert -89934
+Sum -44092 71396
+Sum -30956 50349
+Insert -18209
+Insert 66012
+Insert -72608
+Insert -94774
+Delete -71584
+Subtree 38953
+Insert -89398
+Insert 84178
+Insert -43955
+Insert 28724
+Insert -68200
+Insert 66220
+Sum -13090 -6272
+Insert -52164
+Sum -68449 850
+Insert -46359
+Insert 60031
+Sum -21474 46780
+Insert -71642
+Insert 57763
+Sum 20056 27637
+Insert -8265
+Delete 57294
+Insert -72501
+Insert 22198
+Insert -3421
+Delete 32818
+Insert -85186
+Sum 49428 61692
+Insert -76529
+Insert -17258
+Insert 89294
+Insert -37982
+Delete 64760
+Insert -60642
+Insert 81668
+Delete -57039
+Sum 99916 99960
+Insert 31819
+Insert 91133
+Sum 14754 89875
+Insert -30477
+Sum -88409 -6387
+Delete -59727
+Delete 80656
+Insert -3909
+Insert -699
+Insert -6679
+Insert 52001
+Subtree 9959
+Insert -13575
+Sum -85407 -74745
+Subtree 57909
+Insert -83412
+Delete 61990
+Delete -24632
+Insert 32798
+Insert 7521
+Sum -28996 81386
+Insert 14156
+Sum -2018 38820
+Insert 9545
+Sum -51144 77528
+Insert -31992
+Delete -35195
+Delete -52164
+Insert -2464
+Insert -28604
+Sum 88086 91452
+Insert 84448
+Insert -4823
+Sum 40588 66704
+Insert 37352
+Insert 83277
+Sum -88452 1456
+Delete -87023
+Insert -10271
+Subtree -98410
+Insert -49562
+Delete -89455
+Delete -13575
+Insert 35103
+Sum -70719 25448
+Subtree 51992
+Subtree 7734
+Insert 69472
+Insert 42355
+Sum -20609 69508
+Subtree -41784
+Insert 89742
+Insert 17636
+Insert 50806
+Subtree -34292
+Sum 76395 94759
+Insert 44252
+Insert 90073
+Insert -31600
+Sum 37197 63160
+Insert -15440
+Sum 40001 91233
+Subtree -68572
+Insert 45643
+Subtree -2820
+Insert 72761
+Insert -9675
+Insert -23725
+Insert -7705
+Insert -18858
+Insert 75556
+Insert -66946
+Insert 14520
+Sum -55357 8833
+Insert 14075
+Insert 69998
+Delete -38275
+Insert 20975
+Insert 7981
+Sum 4993 97405
+Delete -15509
+Sum -6339 67086
+Delete -87074
+Subtree -36835
+Sum 62132 65980
+Insert -90596
+Sum 11313 30558
+Sum -56440 41050
+Delete -34305
+Delete -98216
+Insert 66957
+Insert 70213
+Insert -25725
+Insert -62258
+Sum -90132 87009
+Sum -48532 -14811
+Insert 16068
+Insert 67681
+Subtree -22092
+Insert 15464
+Subtree 89497
+Delete 32867
+Delete -71125
+Delete 7734
+Delete -90506
+Insert -87712
+Subtree 54044
+Insert 2206
+Delete 41166
+Insert 45890
+Insert 67436
+Insert -69659
+Insert 49875
+Insert 87739
+Subtree 8928
+Sum 21247 39519
+Sum 85347 89299
+Insert -68837
+Insert -54514
+Insert -66742
+Sum -48784 -27634
+Insert -37746
+Sum 6931 11351
+Insert -99730
+Insert -46607
+Insert 14237
+Sum -66301 11460
+Subtree 44252
+Delete -92939
+Sum 25883 41021
+Delete -99465
+Insert 94725
+Subtree -60642
+Insert 37114
+Insert 59277
+Delete 28388
+Insert 19149
+Subtree -3909
+Sum 96216 98676
+Subtree 24583
+Insert -92502
+Insert 57974
+Sum -75877 94337
+Insert 52631
+Sum -64544 75010
+Sum -3761 46837
+Subtree -51095
+Delete 94148
+Insert 65090
+Delete -24721
+Sum 74998 99873
+Insert -10101
+Subtree 26684
+Insert 96604
+Sum 48845 67404
+Delete -26655
+Insert 88004
+Sum 80499 98646
+Insert -70621
+Subtree 5470
+Insert 64268
+Insert 92393
+Sum 36269 90989
+Sum 91250 97783
+Insert -54367
+Insert -73366
+Sum -83820 48447
+Subtree -5497
+Insert -44980
+Delete -95803
+Delete 94320
+Insert -30129
+Insert 38902
+Sum -37221 21790
+Insert 85293
+Delete 83881
+Insert 76879
+Insert 35743
+Delete 22926
+Subtree 49089
+Insert 15887
+Sum -21502 31049
+Delete 85293
+Subtree -70117
+Subtree 82536
+Insert 76950
+Delete -94796
+Insert 89447
+Insert -75105
+Insert 54732
+Insert -94335
+Delete 49816
+Delete -179
+Insert 83888
+Delete -2701
+Delete -11319
+Insert 26085
+Delete -89682
+Delete 51320
+Sum -73752 -65834
+Sum 1490 84529
+Subtree 20855
+Insert 4090
+Subtree 33718
+Subtree 4090
+Insert 40870
+Delete -30598
+Insert 51022
+Insert 5740
+Sum -546 4782
+Delete 66192
+Insert -44720
+Insert -33634
+Delete 81652
+Insert -87335
+Insert 63580
+Insert 5559
+Insert 85164
+Delete -44696
+Subtree -17508
+Subtree -27
+Delete -33503
+Subtree -3185
+Insert -1667
+Insert 5457
+Delete 64659
+Sum -68830 -55675
+Insert -31892
+Insert -41225
+Insert -49067
+Insert 96272
+Insert 91846
+Insert 91501
+Insert -41027
+Insert -81435
+Insert 87661
+Sum -12580 83581
+Delete 35533
+Insert 44350
+Delete -55438
+Sum -39387 46911
+Subtree 69998
+Insert -85172
+Delete -88168
+Insert -54047
+Insert -57104
+Sum 26449 50810
+Insert 84135
+Sum 93890 99675
+Insert 54525
+Insert 25417
+Sum -22375 62487
+Insert -13960
+Delete -65135
+Insert -80193
+Insert 75863
+Insert -96030
+Sum 58553 66790
+Insert 8596
+Insert -63193
+Insert -10640
+Insert -6253
+Delete 17337
+Sum -12964 18609
+Insert -35048
+Sum -84578 -74523
+Delete 88792
+Insert 61853
+Insert -39549
+Delete 81144
+Insert 72592
+Insert 55088
+Delete 8578
+Delete 15601
+Sum -94787 -67968
+Delete 390
+Sum -82673 -31376
+Insert -93475
+Insert -90614
+Delete -62521
+Insert 72278
+Insert 49072
+Insert -44945
+Insert 45536
+Insert 13182
+Insert 82320
+Insert -18902
+Sum 93361 97853
+Sum 69087 89212
+Insert -77214
+Insert -69031
+Insert -78559
+Insert -57577
+Subtree -13900
+Insert -58487
+Insert -3727
+Sum -85323 -7859
+Insert -83908
+Insert -30373
+Delete -72356
+Delete 21017
+Insert -12598
+Delete -86276
+Subtree -83908
+Sum 49311 88422
+Insert -88237
+Insert -2181
+Insert 17315
+Sum 94787 95940
+Delete -64672
+Insert 95459
+Delete -36835
+Sum 73906 96313
+Insert -7717
+Sum -61478 -47447
+Insert -1643
+Delete 62138
+Subtree -2820
+Insert 28763
+Insert -21870
+Sum 47544 79353
+Insert -64748
+Insert 75773
+Insert -80937
+Insert 69780
+Insert -41879
+Insert 45681
+Subtree -68420
+Sum 65303 84239
+Insert -53397
+Insert 58880
+Delete -19709
+Insert -93299
+Insert -55803
+Insert -60259
+Delete 30543
+Delete -66946
+Insert -70978
+Insert -27663
+Insert -73350
+Insert 83156
+Sum -69153 -29188
+Sum 55319 85257
+Sum 66609 85327
+Sum 13410 44249
+Sum -84227 -8358
+Insert 73896
+Delete 64640
+Sum -84328 -65948
+Subtree -77441
+Sum 39066 48343
+Delete 28829
+Insert 44215
+Delete -9225
+Sum -96244 -45228
+Insert -79882
+Sum 55553 66965
+Delete 94141
+Insert 25606
+Insert -28010
+Delete 3225
+Delete -57988
+Insert -2561
+Sum -16488 45158
+Delete 15707
+Insert -76891
+Sum -52585 48696
+Insert -62394
+Delete 50757
+Insert -70070
+Insert 90656
+Sum -72577 58331
+Insert 64694
+Sum -59315 57185
+Insert -6622
+Subtree 54044
+Delete -57083
+Sum -93916 60900
+Subtree 50875
+Subtree 7329
+Delete 11023
+Sum -48892 60290
+Delete -65918
+Delete -70070
+Insert 32206
+Insert -3567
+Delete -87372
+Subtree 93671
+Sum 60206 72689
+Insert -60171
+Insert 67441
+Delete 87790
+Sum 16882 78607
+Insert -21534
+Delete -17399
+Insert 70937
+Insert 41098
+Insert -34537
+Delete -87712
+Sum -87439 39723
+Insert 44405
+Sum 69703 85114
+Insert -36824
+Sum 22619 29210
+Sum -10728 2767
+Insert 64906
+Insert 46643
+Sum -57430 63378
+Delete -87176
+Insert 19136
+Sum -89342 -63533
+Insert -9734
+Sum 90575 93528
+Delete -23937
+Insert 42596
+Insert -26927
+Sum -79427 91874
+Delete 3426
+Delete -92703
+Insert -65634
+Insert -31901
+Sum -40729 44365
+Delete -56852
+Insert -58037
+Delete -12675
+Delete 50737
+Insert -19084
+Subtree -52037
+Delete -93299
+Delete -23903
+Insert 55933
+Sum -17815 -13356
+Sum -26650 5098
+Delete 33514
+Delete -43123
+Insert -74183
+Insert 24158
+Insert 853
+Delete -16395
+Insert 47282
+Insert 18447
+Insert -24350
+Insert 35049
+Insert 15824
+Insert 53604
+Sum 61674 80112
+Insert 48576
+Insert -13394
+Insert -19785
+Delete -42186
+Insert 64203
+Insert 68026
+Sum 21192 80662
+Insert -35103
+Sum -12240 67724
+Insert -23108
+Insert 42664
+Sum 18850 23754
+Insert 44802
+Sum -68489 17057
+Insert -12283
+Insert 30087
+Insert 27859
+Insert 15195
+Delete -3074
+Insert -10550
+Insert 72718
+Delete 13744
+Delete -44184
+Delete 6991
+Insert 225
+Insert 34973
+Insert 70484
+Insert -58901
+Delete -97749
+Sum -36685 52263
+Insert -36928
+Sum -29240 67844
+Insert -75170
+Insert 91297
+Delete -20606
+Delete 56948
+Insert 77325
+Insert 76955
+Insert -82205
+Insert -68015
+Insert -71146
+Delete 77758
+Sum 29456 78937
+Sum 72364 84688
+Subtree 7860
+Insert -27501
+Insert 35374
+Insert -23785
+Sum 48187 99537
+Delete 74070
+Insert 62065
+Insert -44185
+Insert -3859
+Insert -40456
+Insert 44026
+Insert -97270
+Insert 98743
+Insert -21299
+Delete -98301
+Insert 52285
+Insert 33245
+Sum -15064 32139
+Insert -7335
+Sum -56899 51683
+Insert 6586
+Insert 7472
+Delete -28329
+Sum 71435 98436
+Insert 87605
+Insert -93268
+Insert 54348
+Insert 16561
+Insert -13259
+Subtree 41406
+Sum -39148 -8746
+Sum 21860 67226
+Insert -44742
+Insert 88551
+Insert -26825
+Sum -78981 58932
+Sum -3616 22439
+Sum -35404 55393
+Insert -64404
+Insert -46232
+Insert -44651
+Insert -61822
+Subtree 50243
+Sum -23249 44024
+Sum 62954 84935
+Delete 95459
+Sum -40554 -17406
+Insert 73448
+Delete 35049
+Insert -45189
+Delete 78195
+Insert -94031
+Delete -18868
+Insert 50485
+Sum -48780 31782
+Insert -21922
+Delete -96371
+Insert 29161
+Insert 31207
+Insert -42000
+Insert -72435
+Delete -70724
+Insert -82429
+Insert 13219
+Insert -40658
+Insert 99312
+Insert 40118
+Insert 60964
+Insert -22744
+Insert -66096
+Insert -26013
+Sum 83794 98734
+Subtree 75297
+Insert 1608
+Sum -33290 79490
+Insert -64003
+Subtree -92502
+Insert 63110
+Insert -49457
+Sum 82226 86605
+Subtree 48894
+Insert -39998
+Delete 73391
+Insert -27140
+Delete 72732
+Subtree 32533
+Sum -50158 85571
+Sum -96532 19287
+Subtree -5497
+Sum 61455 88048
+Sum 33278 66194
+Insert 61857
+Insert 84748
+Sum 88959 94157
+Delete 50384
+Delete -54732
+Delete 44215
+Sum 82070 83144
+Delete 33180
+Insert 50963
+Sum -17919 -1733
+Delete 37527
+Delete -30373
+Insert -91711
+Subtree -76703
+Insert -41369
+Subtree 52001
+Insert 99860
+Sum 24228 56272
+Insert 88814
+Insert 61364
+Delete -53906
+Insert -38635
+Insert 20986
+Delete -39287
+Insert -39398
+Insert 24696
+Insert -34190
+Insert 27335
+Sum 97386 99644
+Insert 45251
+Insert 44358
+Insert 56831
+Insert -79500
+Delete -12283
+Insert 16689
+Insert -46177
+Subtree -60642
+Insert -96658
+Delete -92684
+Insert 41974
+Insert 38689
+Insert -41330
+Insert 8303
+Insert -3286
+Insert 70178
+Insert 25473
+Insert 83400
+Sum 66750 88167
+Insert 25610
+Insert 44270
+Sum 72965 88887
+Insert -10014
+Insert -94144
+Subtree 57763
+Insert -2625
+Delete -89748
+Delete -61822
+Insert 69078
+Delete -36675
+Insert -3839
+Delete 18224
+Insert -81133
+Delete -34190
+Insert 52472
+Delete -11651
+Insert -31796
+Delete -91146
+Delete -58443
+Delete 38902
+Delete 84505
+Sum -40722 -11646
+Subtree -29412
+Sum 91217 97149
+Insert 36485
+Insert -77830
+Delete -20740
+Subtree -75105
+Delete -51097
+Sum -87682 23185
+Delete -68420
+Insert 89162
+Sum 76879 82814
+Insert -10926
+Sum 82846 99970
+Delete 29910
+Insert 78690
+Insert -19048
+Sum -19106 56589
+Sum 53876 96470
+Insert -18007
+Insert -59267
+Insert 30825
+Insert 63487
+Delete -7565
+Subtree -49789
+Sum -92538 37419
+Sum 1562 16569
+Delete 55317
+Insert -6210
+Insert -93895
+Sum 99641 99730
+Delete 83156
+Insert 783
+Insert 90193
+Delete 63110
+Insert -96110
+Sum 68713 97877
+Delete -53397
+Sum 8664 88138
+Delete 83750
+Insert 12894
+Subtree -22744
+Insert -93825
+Insert 57096
+Insert 48178
+Subtree -26825
+Insert 17362
+Insert 50472
+Sum -59833 62807
+Subtree 15195
+Sum -5979 67929
+Insert -59814
+Insert -25931
+Insert 83982
+Insert 2874
+Delete 225
+Insert -9522
+Insert 28868
+Subtree -31967
+Insert -79105
+Sum 53748 65788
+Subtree 69423
+Insert 4455
+Delete 20031
+Insert 32296
+Delete 25417
+Insert -27779
+Insert 21509
+Sum 43964 80649
+Delete 48178
+Insert 35610
+Delete 37309
+Insert 41658
+Delete -77249
+Insert -56884
+Insert -46066
+Insert -6426
+Insert -84852
+Insert -23999
+Delete -86009
+Insert -32843
+Sum 25122 93320
+Delete -5351
+Insert 67191
+Insert -48415
+Insert 29110
+Sum 93286 96098
+Insert 45977
+Sum 27154 74686
+Insert 47048
+Subtree -4473
+Delete 2938
+Insert 18876
+Insert 42294
+Insert -6861
+Insert -11269
+Delete -78104
+Insert -16934
+Insert -94419
+Sum -36981 3595
+Subtree -65634
+Delete -75105
+Insert -22563
+Insert 36572
+Insert -64252
+Delete 2143
+Insert -39011
+Insert -10327
+Insert 46488
+Insert 90133
+Insert 13716
+Sum 63496 76466
+Insert 6979
+Insert -19831
+Delete -40238
+Subtree 26227
+Insert 96399
+Sum 57482 85009
+Insert -80952
+Delete 73448
+Insert 30821
+Insert -14627
+Insert 70098
+Insert 89528
+Sum 91219 94797
+Insert 33047
+Insert -38413
+Insert -99048
+Delete -821
+Insert -87063
+Subtree -84115
+Insert 59740
+Sum 50818 99286
+Sum 91360 96367
+Delete -22563
+Delete 45890
+Insert 4026
+Insert 80204
+Subtree 3677
+Sum 16096 67507
+Delete 12894
+Insert 7443
+Delete 82349
+Insert 59547
+Sum -93746 26206
+Delete 66823
+Insert -7014
+Insert 80222
+Sum -22112 83964
+Insert 21958
+Delete 89520
+Insert 96606
+Sum 27248 95296
+Insert -25718
+Insert 75597
+Sum 36012 92385
+Insert 14274
+Insert -41836
+Insert -27089
+Insert -27098
+Insert -71766
+Insert 18507
+Insert -35320
+Sum 38347 65326
+Subtree -77366
+Insert 85780
+Insert -52747
+Insert -13280
+Insert 70744
+Insert 94526
+Insert -1751
+Delete 35385
+Subtree -28118
+Insert -90490
+Insert -27071
+Subtree -49612
+Insert -25407
+Sum 2725 46582
+Insert -42407
+Insert -48670
+Insert -92611
+Insert -93382
+Subtree 93471
+Sum -5052 61381
+Subtree -74183
+Subtree 41658
+Insert 73940
+Subtree -37569
+Sum -65344 64448
+Subtree 11154
+Sum 34099 54619
+Insert -26438
+Subtree -66742
+Insert 95083
+Delete 21958
+Insert -25354
+Subtree -41990
+Subtree -52037
+Insert -98643
+Sum 31827 97962
+Insert -14813
+Insert -1468

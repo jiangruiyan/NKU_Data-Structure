@@ -1,0 +1,21 @@
+20
+Insert -77603
+Subtree -77603
+Insert 94163
+Insert -83661
+Subtree -83661
+Delete -83661
+Insert 34084
+Insert 25919
+Insert 61451
+Insert -92096
+Insert 76579
+Insert 79615
+Delete -92096
+Insert 91951
+Sum 12370 56790
+Sum -16397 -3930
+Insert -59077
+Insert 78577
+Insert -81753
+Subtree 78577

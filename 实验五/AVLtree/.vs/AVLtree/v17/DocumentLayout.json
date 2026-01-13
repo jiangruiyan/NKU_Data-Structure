@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u5357\u5F00\u6279\u4E8B\u60C5\\\u7B2C3\u5B66\u671F-\u6570\u636E\u7ED3\u6784\u8BFE\u4EF6\u548C\u5B9E\u9A8C\\\u5B9E\u9A8C\u4E94\\AVLtree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58A6C07B-D3A0-43D1-B9B1-A1F69C03A72E}|AVLtree.vcxproj|D:\\\u5357\u5F00\u6279\u4E8B\u60C5\\\u7B2C3\u5B66\u671F-\u6570\u636E\u7ED3\u6784\u8BFE\u4EF6\u548C\u5B9E\u9A8C\\\u5B9E\u9A8C\u4E94\\AVLtree\\AVLTree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{58A6C07B-D3A0-43D1-B9B1-A1F69C03A72E}|AVLtree.vcxproj|solutionrelative:AVLTree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AVLTree.cpp",
+              "DocumentMoniker": "D:\\\u5357\u5F00\u6279\u4E8B\u60C5\\\u7B2C3\u5B66\u671F-\u6570\u636E\u7ED3\u6784\u8BFE\u4EF6\u548C\u5B9E\u9A8C\\\u5B9E\u9A8C\u4E94\\AVLtree\\AVLTree.cpp",
+              "RelativeDocumentMoniker": "AVLTree.cpp",
+              "ToolTip": "D:\\\u5357\u5F00\u6279\u4E8B\u60C5\\\u7B2C3\u5B66\u671F-\u6570\u636E\u7ED3\u6784\u8BFE\u4EF6\u548C\u5B9E\u9A8C\\\u5B9E\u9A8C\u4E94\\AVLtree\\AVLTree.cpp",
+              "RelativeToolTip": "AVLTree.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANEBAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-03T07:09:29.922Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
